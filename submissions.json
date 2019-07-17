@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF57214609": {
+    "contest_id": 1195,
+    "language": "Java 8",
+    "path": "codeforces\\1195\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sport Mafia",
+    "problem_url": "https://codeforces.com/contest/1195/problem/B",
+    "submission_id": "CF57214609",
+    "submission_url": "https://codeforces.com/contest/1195/submission/57214609",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jul/17/2019 10:07"
+  },
   "CF57292243": {
     "contest_id": 1195,
     "language": "Java 8",
