@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF57292243": {
+    "contest_id": 1195,
+    "language": "Java 8",
+    "path": "codeforces\\1195\\D1.java",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Submarine in the Rybinsk Sea (easy edition)",
+    "problem_url": "https://codeforces.com/contest/1195/problem/D1",
+    "submission_id": "CF57292243",
+    "submission_url": "https://codeforces.com/contest/1195/submission/57292243",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Jul/18/2019 12:17"
+  },
   "CF57386701": {
     "contest_id": 1178,
     "language": "Java 8",
