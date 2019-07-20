@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF57404375": {
+    "contest_id": 1178,
+    "language": "Java 8",
+    "path": "codeforces\\1178\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Prime Graph",
+    "problem_url": "https://codeforces.com/contest/1178/problem/D",
+    "submission_id": "CF57404375",
+    "submission_url": "https://codeforces.com/contest/1178/submission/57404375",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Jul/20/2019 11:34"
+  },
   "CF57647754": {
     "contest_id": 1196,
     "language": "Java 8",
