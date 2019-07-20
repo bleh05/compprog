@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF57386701": {
+    "contest_id": 1178,
+    "language": "Java 8",
+    "path": "codeforces\\1178\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prime Minister",
+    "problem_url": "https://codeforces.com/contest/1178/problem/A",
+    "submission_id": "CF57386701",
+    "submission_url": "https://codeforces.com/contest/1178/submission/57386701",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jul/20/2019 10:42"
+  },
   "CF57390352": {
     "contest_id": 1178,
     "language": "Java 8",
