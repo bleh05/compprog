@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC6749046": {
+    "contest_id": "dp",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\dp\\H.java",
+    "platform": "AtCoder",
+    "problem_index": "H",
+    "problem_name": "Grid 1",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_h",
+    "submission_id": "AC6749046",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/6749046",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/06/2019 19:33"
+  },
   "AC9123761": {
     "contest_id": "abc148",
     "language": "Java8 (OpenJDK 1.8.0)",
