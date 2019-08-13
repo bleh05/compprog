@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF58729495": {
+    "contest_id": 1203,
+    "language": "Java 8",
+    "path": "codeforces\\1203\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Equal Rectangles",
+    "problem_url": "https://codeforces.com/contest/1203/problem/B",
+    "submission_id": "CF58729495",
+    "submission_url": "https://codeforces.com/contest/1203/submission/58729495",
+    "tags": [
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Aug/13/2019 10:06"
+  },
   "CF58764820": {
     "contest_id": 1203,
     "language": "Java 8",
