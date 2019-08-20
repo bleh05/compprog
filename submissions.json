@@ -1487,6 +1487,23 @@
     ],
     "timestamp": "Aug/20/2019 10:06"
   },
+  "CF59160759": {
+    "contest_id": 1204,
+    "language": "Java 8",
+    "path": "codeforces\\1204\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mislove Has Lost an Array",
+    "problem_url": "https://codeforces.com/contest/1204/problem/B",
+    "submission_id": "CF59160759",
+    "submission_url": "https://codeforces.com/contest/1204/submission/59160759",
+    "tags": [
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Aug/20/2019 10:13"
+  },
   "CF59825968": {
     "contest_id": 946,
     "language": "Java 8",
