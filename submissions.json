@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF60145722": {
+    "contest_id": 1217,
+    "language": "Java 8",
+    "path": "codeforces\\1217\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Zmei Gorynich",
+    "problem_url": "https://codeforces.com/contest/1217/problem/B",
+    "submission_id": "CF60145722",
+    "submission_url": "https://codeforces.com/contest/1217/submission/60145722",
+    "tags": [
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Sep/05/2019 18:46"
+  },
   "CF60368689": {
     "contest_id": 999,
     "language": "Java 8",
