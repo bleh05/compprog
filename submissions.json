@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF60533475": {
+    "contest_id": 1209,
+    "language": "Java 8",
+    "path": "codeforces\\1209\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Paint the Numbers",
+    "problem_url": "https://codeforces.com/contest/1209/problem/A",
+    "submission_id": "CF60533475",
+    "submission_url": "https://codeforces.com/contest/1209/submission/60533475",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/14/2019 08:08"
+  },
   "CF60539371": {
     "contest_id": 1209,
     "language": "Java 8",
