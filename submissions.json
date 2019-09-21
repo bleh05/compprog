@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF61023602": {
+    "contest_id": 1216,
+    "language": "Java 8",
+    "path": "codeforces\\1216\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Swords",
+    "problem_url": "https://codeforces.com/contest/1216/problem/D",
+    "submission_id": "CF61023602",
+    "submission_url": "https://codeforces.com/contest/1216/submission/61023602",
+    "tags": [
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Sep/21/2019 10:20"
+  },
   "CF62748546": {
     "contest_id": 1237,
     "language": "Java 8",
