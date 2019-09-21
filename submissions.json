@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF61021233": {
+    "contest_id": 1216,
+    "language": "Java 8",
+    "path": "codeforces\\1216\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Shooting",
+    "problem_url": "https://codeforces.com/contest/1216/problem/B",
+    "submission_id": "CF61021233",
+    "submission_url": "https://codeforces.com/contest/1216/submission/61021233",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Sep/21/2019 09:38"
+  },
   "CF61022749": {
     "contest_id": 1216,
     "language": "Java 8",
