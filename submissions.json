@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF61022749": {
+    "contest_id": 1216,
+    "language": "Java 8",
+    "path": "codeforces\\1216\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "White Sheet",
+    "problem_url": "https://codeforces.com/contest/1216/problem/C",
+    "submission_id": "CF61022749",
+    "submission_url": "https://codeforces.com/contest/1216/submission/61022749",
+    "tags": [
+      "geometry",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Sep/21/2019 10:04"
+  },
   "CF61023602": {
     "contest_id": 1216,
     "language": "Java 8",
