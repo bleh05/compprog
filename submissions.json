@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF61020737": {
+    "contest_id": 1216,
+    "language": "Java 8",
+    "path": "codeforces\\1216\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prefixes",
+    "problem_url": "https://codeforces.com/contest/1216/problem/A",
+    "submission_id": "CF61020737",
+    "submission_url": "https://codeforces.com/contest/1216/submission/61020737",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/21/2019 09:31"
+  },
   "CF61021233": {
     "contest_id": 1216,
     "language": "Java 8",
