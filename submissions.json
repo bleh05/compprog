@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF63194151": {
+    "contest_id": 1249,
+    "language": "Java 8",
+    "path": "codeforces\\1249\\C2.java",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Good Numbers (hard version)",
+    "problem_url": "https://codeforces.com/contest/1249/problem/C2",
+    "submission_id": "CF63194151",
+    "submission_url": "https://codeforces.com/contest/1249/submission/63194151",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "meet-in-the-middle",
+      "*1500"
+    ],
+    "timestamp": "Oct/22/2019 13:02"
+  },
   "CF63203547": {
     "contest_id": 1249,
     "language": "Java 8",
