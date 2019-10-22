@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF63203547": {
+    "contest_id": 1249,
+    "language": "Java 8",
+    "path": "codeforces\\1249\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "By Elevator or Stairs?",
+    "problem_url": "https://codeforces.com/contest/1249/problem/E",
+    "submission_id": "CF63203547",
+    "submission_url": "https://codeforces.com/contest/1249/submission/63203547",
+    "tags": [
+      "dp",
+      "shortest paths",
+      "*1700"
+    ],
+    "timestamp": "Oct/22/2019 17:01"
+  },
   "CF63264451": {
     "contest_id": 1141,
     "language": "Java 8",
