@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF63271020": {
+    "contest_id": 1141,
+    "language": "Java 8",
+    "path": "codeforces\\1141\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Colored Boots",
+    "problem_url": "https://codeforces.com/contest/1141/problem/D",
+    "submission_id": "CF63271020",
+    "submission_url": "https://codeforces.com/contest/1141/submission/63271020",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Oct/23/2019 23:06"
+  },
   "CF63342235": {
     "contest_id": 1251,
     "language": "Java 8",
