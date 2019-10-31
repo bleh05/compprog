@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF63932302": {
+    "contest_id": 1154,
+    "language": "Java 8",
+    "path": "codeforces\\1154\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Walking Robot",
+    "problem_url": "https://codeforces.com/contest/1154/problem/D",
+    "submission_id": "CF63932302",
+    "submission_url": "https://codeforces.com/contest/1154/submission/63932302",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Oct/31/2019 09:38"
+  },
   "CF64257351": {
     "contest_id": 1256,
     "language": "Java 8",
