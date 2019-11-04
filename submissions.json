@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF64257351": {
+    "contest_id": 1256,
+    "language": "Java 8",
+    "path": "codeforces\\1256\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Platforms Jumping",
+    "problem_url": "https://codeforces.com/contest/1256/problem/C",
+    "submission_id": "CF64257351",
+    "submission_url": "https://codeforces.com/contest/1256/submission/64257351",
+    "tags": [
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Nov/04/2019 09:25"
+  },
   "CF64263024": {
     "contest_id": 1256,
     "language": "Java 8",
