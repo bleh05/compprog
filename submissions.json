@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF64263024": {
+    "contest_id": 1256,
+    "language": "Java 8",
+    "path": "codeforces\\1256\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Binary String Minimizing",
+    "problem_url": "https://codeforces.com/contest/1256/problem/D",
+    "submission_id": "CF64263024",
+    "submission_url": "https://codeforces.com/contest/1256/submission/64263024",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Nov/04/2019 11:10"
+  },
   "CF64434101": {
     "contest_id": 1242,
     "language": "Java 8",
