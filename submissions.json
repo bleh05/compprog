@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF64615178": {
+    "contest_id": 1196,
+    "language": "Java 8",
+    "path": "codeforces\\1196\\F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "K-th Path",
+    "problem_url": "https://codeforces.com/contest/1196/problem/F",
+    "submission_id": "CF64615178",
+    "submission_url": "https://codeforces.com/contest/1196/submission/64615178",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "shortest paths",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "Nov/09/2019 22:23"
+  },
   "CF64851648": {
     "contest_id": 1257,
     "language": "Java 8",
