@@ -1,52 +1,82 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Scanner;
- 
-public class DominatedSubarray {
- 
-	public static void main(String[] args) {
-		@SuppressWarnings("resource")
-		Scanner sc = new Scanner (System.in);
-		int n = sc.nextInt();
-		for (int i=0;i<n;i++)
-		{
-			int min = 10000000;
-			int size = sc.nextInt();
-			sc.nextLine();
-			String[] arr = sc.nextLine().split(" ");
-			int[] arr1 = new int[size];
-//			for (int a = 0;a<size;a++)
-//			{
-//				arr1[a]=Integer.parseInt(arr[a]);
-//			}
-	//		System.out.println(Arrays.toString(arr1));
-			HashMap<Integer, ArrayList<Integer>> map = new HashMap<>(); 
-			
-			for(int b = 0;b<size;b++)
-			{
-				arr1[b]=Integer.parseInt(arr[b]);
-				if (!map.containsKey(arr1[b]))
-				{
-					map.put(arr1[b],new ArrayList<Integer>());
-					ArrayList<Integer> thing = map.get(arr1[b]);
-					thing.add(b);
-					map.replace(arr1[b], thing);
+	import java.util.*;
+	
+	import javax.imageio.ImageIO;
+	import javax.xml.bind.DatatypeConverter;
+	
+	import java.awt.image.BufferedImage;
+	import java.io.*;
+	import java.math.BigInteger;
+	public class template {
+		public static void main(String[] args) throws Exception {
+			FastScanner sc = new FastScanner();
+			PrintWriter pw = new PrintWriter(System.out);
+			int t = sc.nextInt();
+			while(t-->0){
+				int n = sc.nextInt();
+				int[] arr = new int[n];
+				HashMap<Integer,ArrayList<Integer>> hm = new HashMap<Integer,ArrayList<Integer>>();
+				for(int i=0;i<n;i++){
+					arr[i]=sc.nextInt();
 				}
-				else
-				{
-					ArrayList<Integer> thing = map.get(arr1[b]);
-					thing.add(b);
-					map.replace(arr1[b], thing);
-						min = Math.min(min, thing.get(thing.size()-1)-thing.get(thing.size()-2)+1);
+				for(int i=0;i<n;i++){
+					if(hm.get(arr[i])==null){
+						hm.put(arr[i],new ArrayList<Integer>());
+						hm.get(arr[i]).add(i);
+					}
+					else{
+						hm.get(arr[i]).add(i);
+					}
 				}
- 
+				int min = Integer.MAX_VALUE;
+				for(ArrayList<Integer> d : hm.values()){
+					for(int i=0;i<d.size()-1;i++){
+						min = Math.min(d.get(i+1)-d.get(i), min);
+					}
+				}
+				pw.println(min==Integer.MAX_VALUE?-1:min+1);
 			}
-			if(min==10000000)
-				System.out.println(-1);
-			else 
-				System.out.println(min);
+			pw.close();
 		}
 	}
- 
-}
+	@SuppressWarnings("all")
+	class FastScanner {
+	    BufferedReader br;
+	    StringTokenizer st;
+	    
+	    public FastScanner(String s) {
+	        try {
+	            br = new BufferedReader(new FileReader(s));
+	        } catch (FileNotFoundException e) {
+	            // TODO Auto-generated catch block
+	            e.printStackTrace();
+	        }
+	    }
+	 
+	    public FastScanner() {
+	        br = new BufferedReader(new InputStreamReader(System.in));
+	    }
+	 
+	    String nextToken() {
+	        while (st == null || !st.hasMoreElements()) {
+	            try {
+	                st = new StringTokenizer(br.readLine());
+	            } catch (IOException e) {
+	                // TODO Auto-generated catch block
+	                e.printStackTrace();
+	            }
+	        }
+	        return st.nextToken();
+	    }
+	 
+	    int nextInt() {
+	        return Integer.parseInt(nextToken());
+	    }
+	 
+	    long nextLong() {
+	        return Long.parseLong(nextToken());
+	    }
+	 
+	    double nextDouble() {
+	        return Double.parseDouble(nextToken());
+	    }
+	}
