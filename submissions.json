@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF64993221": {
+    "contest_id": 1195,
+    "language": "Java 8",
+    "path": "codeforces\\1195\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Basketball Exercise",
+    "problem_url": "https://codeforces.com/contest/1195/problem/C",
+    "submission_id": "CF64993221",
+    "submission_url": "https://codeforces.com/contest/1195/submission/64993221",
+    "tags": [
+      "dp",
+      "*1400"
+    ],
+    "timestamp": "Nov/14/2019 22:50"
+  },
   "CF65179657": {
     "contest_id": 1253,
     "language": "Java 8",
