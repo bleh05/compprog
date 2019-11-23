@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF65610528": {
+    "contest_id": 701,
+    "language": "Java 8",
+    "path": "codeforces\\701\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/701/problem/A",
+    "submission_id": "CF65610528",
+    "submission_url": "https://codeforces.com/contest/701/submission/65610528",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/23/2019 17:35"
+  },
   "CF65610682": {
     "contest_id": 701,
     "language": "Java 8",
