@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF65610682": {
+    "contest_id": 701,
+    "language": "Java 8",
+    "path": "codeforces\\701\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cells Not Under Attack",
+    "problem_url": "https://codeforces.com/contest/701/problem/B",
+    "submission_id": "CF65610682",
+    "submission_url": "https://codeforces.com/contest/701/submission/65610682",
+    "tags": [
+      "data structures",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Nov/23/2019 17:50"
+  },
   "CF65711144": {
     "contest_id": 1262,
     "language": "Java 8",
