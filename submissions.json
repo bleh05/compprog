@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF65711984": {
+    "contest_id": 1262,
+    "language": "Java 8",
+    "path": "codeforces\\1262\\D1.java",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Optimal Subsequences (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1262/problem/D1",
+    "submission_id": "CF65711984",
+    "submission_url": "https://codeforces.com/contest/1262/submission/65711984",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Nov/25/2019 08:44"
+  },
   "CF65762702": {
     "contest_id": 1102,
     "language": "Java 8",
