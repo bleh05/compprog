@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF65762702": {
+    "contest_id": 1102,
+    "language": "Java 8",
+    "path": "codeforces\\1102\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Monotonic Renumeration",
+    "problem_url": "https://codeforces.com/contest/1102/problem/E",
+    "submission_id": "CF65762702",
+    "submission_url": "https://codeforces.com/contest/1102/submission/65762702",
+    "tags": [
+      "combinatorics",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Nov/26/2019 10:31"
+  },
   "CF65793684": {
     "contest_id": 1156,
     "language": "Java 8",
