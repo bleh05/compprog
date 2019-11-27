@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF65796591": {
+    "contest_id": 1144,
+    "language": "Java 11",
+    "path": "codeforces\\1144\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Median String",
+    "problem_url": "https://codeforces.com/contest/1144/problem/E",
+    "submission_id": "CF65796591",
+    "submission_url": "https://codeforces.com/contest/1144/submission/65796591",
+    "tags": [
+      "bitmasks",
+      "math",
+      "number theory",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "Nov/26/2019 23:12"
+  },
   "CF65829687": {
     "contest_id": 1260,
     "language": "Java 11",
