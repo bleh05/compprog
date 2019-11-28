@@ -1044,6 +1044,27 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF65917691": {
+    "contest_id": 1253,
+    "language": "Java 11",
+    "path": "codeforces\\1253\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Harmonious Graph",
+    "problem_url": "https://codeforces.com/contest/1253/problem/D",
+    "submission_id": "CF65917691",
+    "submission_url": "https://codeforces.com/contest/1253/submission/65917691",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Nov/28/2019 09:12"
+  },
   "CF65931178": {
     "contest_id": 777,
     "language": "Java 11",
