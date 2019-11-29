@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF65936782": {
+    "contest_id": 1077,
+    "language": "Java 11",
+    "path": "codeforces\\1077\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Disturbed People",
+    "problem_url": "https://codeforces.com/contest/1077/problem/B",
+    "submission_id": "CF65936782",
+    "submission_url": "https://codeforces.com/contest/1077/submission/65936782",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Nov/28/2019 20:52"
+  },
   "CF65936952": {
     "contest_id": 1077,
     "language": "Java 11",
