@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF65967160": {
+    "contest_id": 1263,
+    "language": "Java 11",
+    "path": "codeforces\\1263\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Everyone is a Winner!",
+    "problem_url": "https://codeforces.com/contest/1263/problem/C",
+    "submission_id": "CF65967160",
+    "submission_url": "https://codeforces.com/contest/1263/submission/65967160",
+    "tags": [
+      "binary search",
+      "math",
+      "meet-in-the-middle",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Nov/29/2019 09:00"
+  },
   "CF65971982": {
     "contest_id": 1263,
     "language": "Java 11",
