@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF66657803": {
+    "contest_id": 1207,
+    "language": "Java 11",
+    "path": "codeforces\\1207\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "XOR Guessing",
+    "problem_url": "https://codeforces.com/contest/1207/problem/E",
+    "submission_id": "CF66657803",
+    "submission_url": "https://codeforces.com/contest/1207/submission/66657803",
+    "tags": [
+      "bitmasks",
+      "interactive",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Dec/11/2019 19:39"
+  },
   "CF66747469": {
     "contest_id": 1272,
     "language": "Java 11",
