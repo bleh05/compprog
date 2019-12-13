@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF66747469": {
+    "contest_id": 1272,
+    "language": "Java 11",
+    "path": "codeforces\\1272\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Nearest Opposite Parity",
+    "problem_url": "https://codeforces.com/contest/1272/problem/E",
+    "submission_id": "CF66747469",
+    "submission_url": "https://codeforces.com/contest/1272/submission/66747469",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "Dec/12/2019 21:43"
+  },
   "CF67181874": {
     "contest_id": 924,
     "language": "Java 11",
