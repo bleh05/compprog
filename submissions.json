@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67181874": {
+    "contest_id": 924,
+    "language": "Java 11",
+    "path": "codeforces\\924\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Riverside Curio",
+    "problem_url": "https://codeforces.com/contest/924/problem/C",
+    "submission_id": "CF67181874",
+    "submission_url": "https://codeforces.com/contest/924/submission/67181874",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Dec/18/2019 18:22"
+  },
   "CF67255085": {
     "contest_id": 1278,
     "language": "Java 11",
