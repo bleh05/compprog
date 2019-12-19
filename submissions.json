@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67255085": {
+    "contest_id": 1278,
+    "language": "Java 11",
+    "path": "codeforces\\1278\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Berry Jam",
+    "problem_url": "https://codeforces.com/contest/1278/problem/C",
+    "submission_id": "CF67255085",
+    "submission_url": "https://codeforces.com/contest/1278/submission/67255085",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Dec/19/2019 15:24"
+  },
   "CF67386082": {
     "contest_id": 1181,
     "language": "Java 11",
