@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67393053": {
+    "contest_id": 1269,
+    "language": "Java 11",
+    "path": "codeforces\\1269\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Long Beautiful Integer",
+    "problem_url": "https://codeforces.com/contest/1269/problem/C",
+    "submission_id": "CF67393053",
+    "submission_url": "https://codeforces.com/contest/1269/submission/67393053",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Dec/21/2019 14:51"
+  },
   "CF67393335": {
     "contest_id": 1269,
     "language": "Java 11",
