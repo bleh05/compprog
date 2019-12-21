@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67386082": {
+    "contest_id": 1181,
+    "language": "Java 11",
+    "path": "codeforces\\1181\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Flag",
+    "problem_url": "https://codeforces.com/contest/1181/problem/C",
+    "submission_id": "CF67386082",
+    "submission_url": "https://codeforces.com/contest/1181/submission/67386082",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Dec/21/2019 11:52"
+  },
   "CF67393053": {
     "contest_id": 1269,
     "language": "Java 11",
