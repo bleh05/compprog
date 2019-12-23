@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67450045": {
+    "contest_id": 1093,
+    "language": "Java 11",
+    "path": "codeforces\\1093\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mishka and the Last Exam",
+    "problem_url": "https://codeforces.com/contest/1093/problem/C",
+    "submission_id": "CF67450045",
+    "submission_url": "https://codeforces.com/contest/1093/submission/67450045",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Dec/22/2019 21:18"
+  },
   "CF67450831": {
     "contest_id": 1093,
     "language": "Java 11",
