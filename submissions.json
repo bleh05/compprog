@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67496593": {
+    "contest_id": 1157,
+    "language": "Java 11",
+    "path": "codeforces\\1157\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "N Problems During K Days",
+    "problem_url": "https://codeforces.com/contest/1157/problem/D",
+    "submission_id": "CF67496593",
+    "submission_url": "https://codeforces.com/contest/1157/submission/67496593",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Dec/23/2019 17:34"
+  },
   "CF67528061": {
     "contest_id": 1282,
     "language": "Java 11",
