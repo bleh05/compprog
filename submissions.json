@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67449709": {
+    "contest_id": 1093,
+    "language": "Java 11",
+    "path": "codeforces\\1093\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Letters Rearranging",
+    "problem_url": "https://codeforces.com/contest/1093/problem/B",
+    "submission_id": "CF67449709",
+    "submission_url": "https://codeforces.com/contest/1093/submission/67449709",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Dec/22/2019 20:55"
+  },
   "CF67450045": {
     "contest_id": 1093,
     "language": "Java 11",
