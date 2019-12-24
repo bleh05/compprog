@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67570197": {
+    "contest_id": 1282,
+    "language": "Java 11",
+    "path": "codeforces\\1282\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Petya and Exam",
+    "problem_url": "https://codeforces.com/contest/1282/problem/C",
+    "submission_id": "CF67570197",
+    "submission_url": "https://codeforces.com/contest/1282/submission/67570197",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Dec/24/2019 15:34"
+  },
   "CF67579435": {
     "contest_id": 1282,
     "language": "Java 11",
