@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC9133213": {
+    "contest_id": "abc147",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc147\\D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Xor Sum 4",
+    "problem_url": "https://atcoder.jp/contests/abc147/tasks/abc147_d",
+    "submission_id": "AC9133213",
+    "submission_url": "https://atcoder.jp/contests/abc147/submissions/9133213",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/25/2019 10:07"
+  },
   "AC9133869": {
     "contest_id": "abc147",
     "language": "Java8 (OpenJDK 1.8.0)",
