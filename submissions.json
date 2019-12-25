@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67579435": {
+    "contest_id": 1282,
+    "language": "Java 11",
+    "path": "codeforces\\1282\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Enchanted Artifact",
+    "problem_url": "https://codeforces.com/contest/1282/problem/D",
+    "submission_id": "CF67579435",
+    "submission_url": "https://codeforces.com/contest/1282/submission/67579435",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "strings",
+      "*2300"
+    ],
+    "timestamp": "Dec/24/2019 23:08"
+  },
   "CF67703229": {
     "contest_id": 1279,
     "language": "Java 11",
