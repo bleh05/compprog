@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC9133869": {
+    "contest_id": "abc147",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc147\\E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Balanced Path",
+    "problem_url": "https://atcoder.jp/contests/abc147/tasks/abc147_e",
+    "submission_id": "AC9133869",
+    "submission_url": "https://atcoder.jp/contests/abc147/submissions/9133869",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Dec/25/2019 11:50"
+  },
   "AC9196770": {
     "contest_id": "abc145",
     "language": "Java8 (OpenJDK 1.8.0)",
