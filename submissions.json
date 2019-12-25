@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC9132223": {
+    "contest_id": "abc147",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc147\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Palindrome-philia",
+    "problem_url": "https://atcoder.jp/contests/abc147/tasks/abc147_b",
+    "submission_id": "AC9132223",
+    "submission_url": "https://atcoder.jp/contests/abc147/submissions/9132223",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/25/2019 08:35"
+  },
   "AC9132560": {
     "contest_id": "abc147",
     "language": "Java8 (OpenJDK 1.8.0)",
