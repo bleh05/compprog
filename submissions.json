@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67703229": {
+    "contest_id": 1279,
+    "language": "Java 11",
+    "path": "codeforces\\1279\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year Garland",
+    "problem_url": "https://codeforces.com/contest/1279/problem/A",
+    "submission_id": "CF67703229",
+    "submission_url": "https://codeforces.com/contest/1279/submission/67703229",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/27/2019 08:45"
+  },
   "CF67723106": {
     "contest_id": 1279,
     "language": "Java 11",
