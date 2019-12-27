@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67723106": {
+    "contest_id": 1279,
+    "language": "Java 11",
+    "path": "codeforces\\1279\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Stack of Presents",
+    "problem_url": "https://codeforces.com/contest/1279/problem/C",
+    "submission_id": "CF67723106",
+    "submission_url": "https://codeforces.com/contest/1279/submission/67723106",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Dec/27/2019 09:24"
+  },
   "CF67750567": {
     "contest_id": 1279,
     "language": "Java 11",
