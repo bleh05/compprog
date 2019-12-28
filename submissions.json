@@ -2853,6 +2853,23 @@
     ],
     "timestamp": "Dec/28/2019 11:06"
   },
+  "CF67822605": {
+    "contest_id": 1283,
+    "language": "Java 11",
+    "path": "codeforces\\1283\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "New Year Parties",
+    "problem_url": "https://codeforces.com/contest/1283/problem/E",
+    "submission_id": "CF67822605",
+    "submission_url": "https://codeforces.com/contest/1283/submission/67822605",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Dec/28/2019 12:05"
+  },
   "CF67848380": {
     "contest_id": 1283,
     "language": "Java 11",
