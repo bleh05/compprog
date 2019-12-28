@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67848380": {
+    "contest_id": 1283,
+    "language": "Java 11",
+    "path": "codeforces\\1283\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Christmas Trees",
+    "problem_url": "https://codeforces.com/contest/1283/problem/D",
+    "submission_id": "CF67848380",
+    "submission_url": "https://codeforces.com/contest/1283/submission/67848380",
+    "tags": [
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*1800"
+    ],
+    "timestamp": "Dec/28/2019 17:55"
+  },
   "CF67983492": {
     "contest_id": 1041,
     "language": "Java 11",
