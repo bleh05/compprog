@@ -2853,6 +2853,22 @@
     ],
     "timestamp": "Dec/28/2019 11:06"
   },
+  "CF67800253": {
+    "contest_id": 1283,
+    "language": "Java 11",
+    "path": "codeforces\\1283\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Candies Division",
+    "problem_url": "https://codeforces.com/contest/1283/problem/B",
+    "submission_id": "CF67800253",
+    "submission_url": "https://codeforces.com/contest/1283/submission/67800253",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/28/2019 11:09"
+  },
   "CF67822605": {
     "contest_id": 1283,
     "language": "Java 11",
