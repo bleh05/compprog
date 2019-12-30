@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC9247070": {
+    "contest_id": "abc149",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc149\\D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Prediction and Restriction",
+    "problem_url": "https://atcoder.jp/contests/abc149/tasks/abc149_d",
+    "submission_id": "AC9247070",
+    "submission_url": "https://atcoder.jp/contests/abc149/submissions/9247070",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/30/2019 10:07"
+  },
   "AC9318937": {
     "contest_id": "abc116",
     "language": "Java8 (OpenJDK 1.8.0)",
