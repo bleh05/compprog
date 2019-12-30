@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF67983492": {
+    "contest_id": 1041,
+    "language": "Java 11",
+    "path": "codeforces\\1041\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tree Reconstruction",
+    "problem_url": "https://codeforces.com/contest/1041/problem/E",
+    "submission_id": "CF67983492",
+    "submission_url": "https://codeforces.com/contest/1041/submission/67983492",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "graphs",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Dec/30/2019 14:40"
+  },
   "CF69278546": {
     "contest_id": 1217,
     "language": "Java 11",
