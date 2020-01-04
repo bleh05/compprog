@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC9318937": {
+    "contest_id": "abc116",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc116\\D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Various Sushi",
+    "problem_url": "https://atcoder.jp/contests/abc116/tasks/abc116_d",
+    "submission_id": "AC9318937",
+    "submission_url": "https://atcoder.jp/contests/abc116/submissions/9318937",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/04/2020 17:41"
+  },
   "AC9412706": {
     "contest_id": "abc150",
     "language": "Java8 (OpenJDK 1.8.0)",
