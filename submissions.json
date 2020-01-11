@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC9429980": {
+    "contest_id": "abc133",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc133\\D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Rain Flows into Dams",
+    "problem_url": "https://atcoder.jp/contests/abc133/tasks/abc133_d",
+    "submission_id": "AC9429980",
+    "submission_url": "https://atcoder.jp/contests/abc133/submissions/9429980",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/11/2020 11:17"
+  },
   "AC9774793": {
     "contest_id": "abc153",
     "language": "Java8 (OpenJDK 1.8.0)",
