@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC9412706": {
+    "contest_id": "abc150",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc150\\D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Semi Common Multiple",
+    "problem_url": "https://atcoder.jp/contests/abc150/tasks/abc150_d",
+    "submission_id": "AC9412706",
+    "submission_url": "https://atcoder.jp/contests/abc150/submissions/9412706",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/10/2020 21:06"
+  },
   "AC9429980": {
     "contest_id": "abc133",
     "language": "Java8 (OpenJDK 1.8.0)",
