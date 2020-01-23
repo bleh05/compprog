@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF69439715": {
+    "contest_id": 1294,
+    "language": "Java 11",
+    "path": "codeforces\\1294\\F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Three Paths on a Tree",
+    "problem_url": "https://codeforces.com/contest/1294/problem/F",
+    "submission_id": "CF69439715",
+    "submission_url": "https://codeforces.com/contest/1294/submission/69439715",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "Jan/23/2020 14:44"
+  },
   "CF69443681": {
     "contest_id": 1294,
     "language": "Java 11",
