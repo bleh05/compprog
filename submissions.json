@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF69443681": {
+    "contest_id": 1294,
+    "language": "Java 11",
+    "path": "codeforces\\1294\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "MEX maximizing",
+    "problem_url": "https://codeforces.com/contest/1294/problem/D",
+    "submission_id": "CF69443681",
+    "submission_url": "https://codeforces.com/contest/1294/submission/69443681",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jan/23/2020 18:33"
+  },
   "CF69444026": {
     "contest_id": 1294,
     "language": "Java 11",
