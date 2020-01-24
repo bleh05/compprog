@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF69444275": {
+    "contest_id": 1294,
+    "language": "Java 11",
+    "path": "codeforces\\1294\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Collecting Coins",
+    "problem_url": "https://codeforces.com/contest/1294/problem/A",
+    "submission_id": "CF69444275",
+    "submission_url": "https://codeforces.com/contest/1294/submission/69444275",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/23/2020 19:11"
+  },
   "CF69595195": {
     "contest_id": 734,
     "language": "Java 11",
