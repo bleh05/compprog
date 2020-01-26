@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC9775015": {
+    "contest_id": "abc153",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc153\\F.java",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Silver Fox vs Monster",
+    "problem_url": "https://atcoder.jp/contests/abc153/tasks/abc153_f",
+    "submission_id": "AC9775015",
+    "submission_url": "https://atcoder.jp/contests/abc153/submissions/9775015",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Jan/26/2020 16:08"
+  },
   "CF100527174": {
     "contest_id": 1450,
     "language": "GNU C++17",
