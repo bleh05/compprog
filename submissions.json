@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC9774875": {
+    "contest_id": "abc153",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc153\\E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Crested Ibis vs Monster",
+    "problem_url": "https://atcoder.jp/contests/abc153/tasks/abc153_e",
+    "submission_id": "AC9774875",
+    "submission_url": "https://atcoder.jp/contests/abc153/submissions/9774875",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/26/2020 15:30"
+  },
   "AC9775015": {
     "contest_id": "abc153",
     "language": "Java8 (OpenJDK 1.8.0)",
