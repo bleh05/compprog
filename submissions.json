@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC9774793": {
+    "contest_id": "abc153",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc153\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Serval vs Monster",
+    "problem_url": "https://atcoder.jp/contests/abc153/tasks/abc153_a",
+    "submission_id": "AC9774793",
+    "submission_url": "https://atcoder.jp/contests/abc153/submissions/9774793",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/26/2020 15:10"
+  },
   "AC9774798": {
     "contest_id": "abc153",
     "language": "Java8 (OpenJDK 1.8.0)",
