@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC9774814": {
+    "contest_id": "abc153",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc153\\D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Caracal vs Monster",
+    "problem_url": "https://atcoder.jp/contests/abc153/tasks/abc153_d",
+    "submission_id": "AC9774814",
+    "submission_url": "https://atcoder.jp/contests/abc153/submissions/9774814",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/26/2020 15:16"
+  },
   "AC9774875": {
     "contest_id": "abc153",
     "language": "Java8 (OpenJDK 1.8.0)",
