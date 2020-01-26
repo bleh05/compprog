@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC9774804": {
+    "contest_id": "abc153",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc153\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Fennec vs Monster",
+    "problem_url": "https://atcoder.jp/contests/abc153/tasks/abc153_c",
+    "submission_id": "AC9774804",
+    "submission_url": "https://atcoder.jp/contests/abc153/submissions/9774804",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/26/2020 15:14"
+  },
   "AC9774814": {
     "contest_id": "abc153",
     "language": "Java8 (OpenJDK 1.8.0)",
