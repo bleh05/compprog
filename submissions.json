@@ -3105,6 +3105,22 @@
     ],
     "timestamp": "Feb/04/2020 08:40"
   },
+  "CF70302626": {
+    "contest_id": 1296,
+    "language": "Java 11",
+    "path": "codeforces\\1296\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Food Buying",
+    "problem_url": "https://codeforces.com/contest/1296/problem/B",
+    "submission_id": "CF70302626",
+    "submission_url": "https://codeforces.com/contest/1296/submission/70302626",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Feb/04/2020 11:10"
+  },
   "CF70306838": {
     "contest_id": 1296,
     "language": "Java 11",
