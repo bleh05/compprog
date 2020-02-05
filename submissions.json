@@ -3122,6 +3122,26 @@
     ],
     "timestamp": "Feb/04/2020 13:10"
   },
+  "CF70323165": {
+    "contest_id": 1296,
+    "language": "Java 11",
+    "path": "codeforces\\1296\\F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Berland Beauty",
+    "problem_url": "https://codeforces.com/contest/1296/problem/F",
+    "submission_id": "CF70323165",
+    "submission_url": "https://codeforces.com/contest/1296/submission/70323165",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "sortings",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Feb/04/2020 19:54"
+  },
   "CF70394531": {
     "contest_id": 1296,
     "language": "Java 11",
