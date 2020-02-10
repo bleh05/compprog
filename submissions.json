@@ -1,4 +1,20 @@
 {
+  "AC10018987": {
+    "contest_id": "abc154",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc154\\D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Dice in Line",
+    "problem_url": "https://atcoder.jp/contests/abc154/tasks/abc154_d",
+    "submission_id": "AC10018987",
+    "submission_url": "https://atcoder.jp/contests/abc154/submissions/10018987",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/09/2020 19:11"
+  },
   "AC10337544": {
     "contest_id": "abc156",
     "language": "Java8 (OpenJDK 1.8.0)",
