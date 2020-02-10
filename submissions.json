@@ -1,4 +1,20 @@
 {
+  "AC10018774": {
+    "contest_id": "abc154",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc154\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Distinct or Not",
+    "problem_url": "https://atcoder.jp/contests/abc154/tasks/abc154_c",
+    "submission_id": "AC10018774",
+    "submission_url": "https://atcoder.jp/contests/abc154/submissions/10018774",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/09/2020 18:42"
+  },
   "AC10018987": {
     "contest_id": "abc154",
     "language": "Java8 (OpenJDK 1.8.0)",
