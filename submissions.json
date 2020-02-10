@@ -1,4 +1,20 @@
 {
+  "AC10018740": {
+    "contest_id": "abc154",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc154\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Remaining Balls",
+    "problem_url": "https://atcoder.jp/contests/abc154/tasks/abc154_a",
+    "submission_id": "AC10018740",
+    "submission_url": "https://atcoder.jp/contests/abc154/submissions/10018740",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/09/2020 18:39"
+  },
   "AC10018747": {
     "contest_id": "abc154",
     "language": "Java8 (OpenJDK 1.8.0)",
