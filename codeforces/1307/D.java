@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
- 
+
 public class Main {
     public static void main(String[] args) throws IOException {
         FastReader scan = new FastReader();
@@ -60,37 +60,36 @@ public class Main {
             }
             tup[] qs = new tup[k];
             for(int i =0 ;i<k;i++){
-                qs[i] = new tup(arr[i],bfs1[arr[i]],bfs2[arr[i]]);
+                qs[i] = new tup(arr[i],bfs1[arr[i]]-bfs2[arr[i]]);
             }
             Arrays.sort(qs);
             int maxd = Integer.MIN_VALUE;
             int ret =0;
             for(tup i : qs){
                 //pw.println(i.a);
-                ret = Math.max(ret,i.c+maxd);
-                maxd = Math.max(maxd,i.b);
+                ret = Math.max(ret,bfs2[i.a]+maxd);
+                maxd = Math.max(maxd,bfs1[i.a]);
             }
             //pw.println(Arrays.toString(bfs1));
             //pw.println(Arrays.toString(bfs2));
             pw.println(Math.min(bfs1[n],ret+1));
         }
- 
+
     }
     static class tup implements Comparable<tup>{
-        int a, b, c;
+        int a, b;
         tup(){};
-        tup(int a, int b,int c ){
+        tup(int a, int b){
             this.a=a;
             this.b=b;
-            this.c=c;
         }
- 
+
         @Override
         public int compareTo( tup o2) {
-            return Integer.compare(b-c,o2.b-o2.c);
+            return Integer.compare(b,o2.b);
         }
     }
- 
+
     static class bit {
         int n;
         int[] bit;
@@ -131,15 +130,15 @@ public class Main {
     static class FastReader {
         BufferedReader br;
         StringTokenizer st;
- 
+
         public FastReader() {
             br = new BufferedReader(new InputStreamReader(System.in));
         }
- 
+
         public FastReader(String s) throws FileNotFoundException {
             br = new BufferedReader(new FileReader(new File(s)));
         }
- 
+
         String next() {
             while (st == null || !st.hasMoreElements()) {
                 try {
@@ -150,19 +149,19 @@ public class Main {
             }
             return st.nextToken();
         }
- 
+
         int nextInt() {
             return Integer.parseInt(next());
         }
- 
+
         long nextLong() {
             return Long.parseLong(next());
         }
- 
+
         double nextDouble() {
             return Double.parseDouble(next());
         }
- 
+
         String nextLine() {
             String str = "";
             try {
@@ -173,5 +172,5 @@ public class Main {
             return str;
         }
     }
- 
+
 }
