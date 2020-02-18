@@ -1,4 +1,3 @@
-
 import java.io.*;
 import java.util.*;
  
@@ -68,8 +67,8 @@ public class Main {
             int ret =0;
             for(tup i : qs){
                 //pw.println(i.a);
-                ret = Math.max(ret,i.b+maxd);
-                maxd = Math.max(maxd,i.c);
+                ret = Math.max(ret,i.c+maxd);
+                maxd = Math.max(maxd,i.b);
             }
             //pw.println(Arrays.toString(bfs1));
             //pw.println(Arrays.toString(bfs2));
@@ -88,7 +87,7 @@ public class Main {
  
         @Override
         public int compareTo( tup o2) {
-            return o2.c!=c?Integer.compare(c,o2.c):Integer.compare(o2.b,b);
+            return Integer.compare(b-c,o2.b-o2.c);
         }
     }
  
