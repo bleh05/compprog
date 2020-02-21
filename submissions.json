@@ -3260,6 +3260,23 @@
     ],
     "timestamp": "Feb/17/2020 19:15"
   },
+  "CF71561830": {
+    "contest_id": 1263,
+    "language": "Java 11",
+    "path": "codeforces\\1263\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Editor",
+    "problem_url": "https://codeforces.com/contest/1263/problem/E",
+    "submission_id": "CF71561830",
+    "submission_url": "https://codeforces.com/contest/1263/submission/71561830",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "Feb/21/2020 10:06"
+  },
   "CF71736144": {
     "contest_id": 1315,
     "language": "Java 11",
