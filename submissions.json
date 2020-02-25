@@ -1,4 +1,20 @@
 {
+  "AC10337544": {
+    "contest_id": "abc156",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc156\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Beginner",
+    "problem_url": "https://atcoder.jp/contests/abc156/tasks/abc156_a",
+    "submission_id": "AC10337544",
+    "submission_url": "https://atcoder.jp/contests/abc156/submissions/10337544",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/24/2020 21:11"
+  },
   "AC10337592": {
     "contest_id": "abc156",
     "language": "Java8 (OpenJDK 1.8.0)",
