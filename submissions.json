@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF71830054": {
+    "contest_id": 1311,
+    "language": "Java 11",
+    "path": "codeforces\\1311\\F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Moving Points",
+    "problem_url": "https://codeforces.com/contest/1311/problem/F",
+    "submission_id": "CF71830054",
+    "submission_url": "https://codeforces.com/contest/1311/submission/71830054",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Feb/24/2020 20:10"
+  },
   "CF71890365": {
     "contest_id": 987,
     "language": "Java 11",
