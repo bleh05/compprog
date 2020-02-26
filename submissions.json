@@ -3311,6 +3311,24 @@
     ],
     "timestamp": "Feb/25/2020 19:49"
   },
+  "CF71891936": {
+    "contest_id": 987,
+    "language": "Java 11",
+    "path": "codeforces\\987\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Three displays",
+    "problem_url": "https://codeforces.com/contest/987/problem/C",
+    "submission_id": "CF71891936",
+    "submission_url": "https://codeforces.com/contest/987/submission/71891936",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Feb/25/2020 20:59"
+  },
   "CF71946007": {
     "contest_id": 978,
     "language": "Java 11",
