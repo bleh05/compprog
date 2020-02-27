@@ -3346,6 +3346,24 @@
     ],
     "timestamp": "Feb/26/2020 20:06"
   },
+  "CF71947217": {
+    "contest_id": 978,
+    "language": "Java 11",
+    "path": "codeforces\\978\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Almost Arithmetic Progression",
+    "problem_url": "https://codeforces.com/contest/978/problem/D",
+    "submission_id": "CF71947217",
+    "submission_url": "https://codeforces.com/contest/978/submission/71947217",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Feb/26/2020 20:46"
+  },
   "CF71947449": {
     "contest_id": 978,
     "language": "Java 11",
