@@ -3346,6 +3346,23 @@
     ],
     "timestamp": "Feb/26/2020 20:06"
   },
+  "CF71947449": {
+    "contest_id": 978,
+    "language": "Java 11",
+    "path": "codeforces\\978\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bus Video System",
+    "problem_url": "https://codeforces.com/contest/978/problem/E",
+    "submission_id": "CF71947449",
+    "submission_url": "https://codeforces.com/contest/978/submission/71947449",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Feb/26/2020 20:55"
+  },
   "CF71947931": {
     "contest_id": 978,
     "language": "Java 11",
