@@ -3364,6 +3364,24 @@
     ],
     "timestamp": "Feb/26/2020 21:13"
   },
+  "CF71949006": {
+    "contest_id": 978,
+    "language": "Java 11",
+    "path": "codeforces\\978\\G.java",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Petya's Exams",
+    "problem_url": "https://codeforces.com/contest/978/problem/G",
+    "submission_id": "CF71949006",
+    "submission_url": "https://codeforces.com/contest/978/submission/71949006",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Feb/26/2020 21:54"
+  },
   "CF72006493": {
     "contest_id": 922,
     "language": "Java 11",
