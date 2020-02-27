@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF72006493": {
+    "contest_id": 922,
+    "language": "Java 11",
+    "path": "codeforces\\922\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cloning Toys",
+    "problem_url": "https://codeforces.com/contest/922/problem/A",
+    "submission_id": "CF72006493",
+    "submission_url": "https://codeforces.com/contest/922/submission/72006493",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Feb/27/2020 17:10"
+  },
   "CF72006760": {
     "contest_id": 922,
     "language": "Java 11",
