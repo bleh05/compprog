@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF72006760": {
+    "contest_id": 922,
+    "language": "Java 11",
+    "path": "codeforces\\922\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Magic Forest",
+    "problem_url": "https://codeforces.com/contest/922/problem/B",
+    "submission_id": "CF72006760",
+    "submission_url": "https://codeforces.com/contest/922/submission/72006760",
+    "tags": [
+      "brute force",
+      "*1300"
+    ],
+    "timestamp": "Feb/27/2020 17:23"
+  },
   "CF81058032": {
     "contest_id": 81,
     "language": "Java 8",
