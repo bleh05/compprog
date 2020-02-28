@@ -3396,6 +3396,23 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72040338": {
+    "contest_id": 1153,
+    "language": "Java 11",
+    "path": "codeforces\\1153\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Serval and Toy Bricks",
+    "problem_url": "https://codeforces.com/contest/1153/problem/B",
+    "submission_id": "CF72040338",
+    "submission_url": "https://codeforces.com/contest/1153/submission/72040338",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Feb/28/2020 07:56"
+  },
   "CF72043286": {
     "contest_id": 1153,
     "language": "Java 11",
