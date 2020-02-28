@@ -3396,6 +3396,24 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72064773": {
+    "contest_id": 940,
+    "language": "Java 11",
+    "path": "codeforces\\940\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Phone Numbers",
+    "problem_url": "https://codeforces.com/contest/940/problem/C",
+    "submission_id": "CF72064773",
+    "submission_url": "https://codeforces.com/contest/940/submission/72064773",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Feb/28/2020 14:57"
+  },
   "CF72065580": {
     "contest_id": 940,
     "language": "Java 11",
