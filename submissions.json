@@ -3396,6 +3396,23 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72048184": {
+    "contest_id": 1107,
+    "language": "Java 11",
+    "path": "codeforces\\1107\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Digits Sequence Dividing",
+    "problem_url": "https://codeforces.com/contest/1107/problem/A",
+    "submission_id": "CF72048184",
+    "submission_url": "https://codeforces.com/contest/1107/submission/72048184",
+    "tags": [
+      "greedy",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Feb/28/2020 10:06"
+  },
   "CF72048520": {
     "contest_id": 1107,
     "language": "Java 11",
