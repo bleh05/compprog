@@ -3396,6 +3396,24 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72063689": {
+    "contest_id": 940,
+    "language": "Java 11",
+    "path": "codeforces\\940\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Points on the line",
+    "problem_url": "https://codeforces.com/contest/940/problem/A",
+    "submission_id": "CF72063689",
+    "submission_url": "https://codeforces.com/contest/940/submission/72063689",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Feb/28/2020 14:27"
+  },
   "CF72064218": {
     "contest_id": 940,
     "language": "Java 11",
