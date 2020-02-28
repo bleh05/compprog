@@ -3396,6 +3396,24 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72049387": {
+    "contest_id": 1107,
+    "language": "Java 11",
+    "path": "codeforces\\1107\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Brutality",
+    "problem_url": "https://codeforces.com/contest/1107/problem/C",
+    "submission_id": "CF72049387",
+    "submission_url": "https://codeforces.com/contest/1107/submission/72049387",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Feb/28/2020 10:26"
+  },
   "CF72052587": {
     "contest_id": 1107,
     "language": "Java 11",
