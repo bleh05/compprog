@@ -3396,6 +3396,23 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72064218": {
+    "contest_id": 940,
+    "language": "Java 11",
+    "path": "codeforces\\940\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Our Tanya is Crying Out Loud",
+    "problem_url": "https://codeforces.com/contest/940/problem/B",
+    "submission_id": "CF72064218",
+    "submission_url": "https://codeforces.com/contest/940/submission/72064218",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Feb/28/2020 14:42"
+  },
   "CF72064773": {
     "contest_id": 940,
     "language": "Java 11",
