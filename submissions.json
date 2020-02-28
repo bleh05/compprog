@@ -3396,6 +3396,25 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72066777": {
+    "contest_id": 940,
+    "language": "Java 11",
+    "path": "codeforces\\940\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cashback",
+    "problem_url": "https://codeforces.com/contest/940/problem/E",
+    "submission_id": "CF72066777",
+    "submission_url": "https://codeforces.com/contest/940/submission/72066777",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Feb/28/2020 16:07"
+  },
   "CF72118084": {
     "contest_id": 1130,
     "language": "Java 11",
