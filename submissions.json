@@ -3396,6 +3396,23 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72065580": {
+    "contest_id": 940,
+    "language": "Java 11",
+    "path": "codeforces\\940\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Alena And The Heater",
+    "problem_url": "https://codeforces.com/contest/940/problem/D",
+    "submission_id": "CF72065580",
+    "submission_url": "https://codeforces.com/contest/940/submission/72065580",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Feb/28/2020 15:23"
+  },
   "CF72066777": {
     "contest_id": 940,
     "language": "Java 11",
