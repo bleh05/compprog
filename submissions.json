@@ -3396,6 +3396,23 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72007594": {
+    "contest_id": 922,
+    "language": "Java 11",
+    "path": "codeforces\\922\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cave Painting",
+    "problem_url": "https://codeforces.com/contest/922/problem/C",
+    "submission_id": "CF72007594",
+    "submission_url": "https://codeforces.com/contest/922/submission/72007594",
+    "tags": [
+      "brute force",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Feb/27/2020 18:06"
+  },
   "CF72039783": {
     "contest_id": 1153,
     "language": "Java 11",
