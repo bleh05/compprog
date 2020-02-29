@@ -3396,6 +3396,24 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72122203": {
+    "contest_id": 1130,
+    "language": "Java 11",
+    "path": "codeforces\\1130\\D2.java",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Toy Train",
+    "problem_url": "https://codeforces.com/contest/1130/problem/D2",
+    "submission_id": "CF72122203",
+    "submission_url": "https://codeforces.com/contest/1130/submission/72122203",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Feb/29/2020 14:57"
+  },
   "CF72124452": {
     "contest_id": 1136,
     "language": "Java 11",
