@@ -3396,6 +3396,22 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72118084": {
+    "contest_id": 1130,
+    "language": "Java 11",
+    "path": "codeforces\\1130\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Be Positive",
+    "problem_url": "https://codeforces.com/contest/1130/problem/A",
+    "submission_id": "CF72118084",
+    "submission_url": "https://codeforces.com/contest/1130/submission/72118084",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/29/2020 13:19"
+  },
   "CF72118691": {
     "contest_id": 1130,
     "language": "Java 11",
