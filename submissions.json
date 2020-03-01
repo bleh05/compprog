@@ -1,4 +1,20 @@
 {
+  "AC10415322": {
+    "contest_id": "aising2019",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\aising2019\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Alternating Path",
+    "problem_url": "https://atcoder.jp/contests/aising2019/tasks/aising2019_c",
+    "submission_id": "AC10415322",
+    "submission_url": "https://atcoder.jp/contests/aising2019/submissions/10415322",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/29/2020 20:22"
+  },
   "AC10481592": {
     "contest_id": "abc157",
     "language": "Java8 (OpenJDK 1.8.0)",
