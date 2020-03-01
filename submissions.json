@@ -3396,6 +3396,23 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72219166": {
+    "contest_id": 1321,
+    "language": "Java 11",
+    "path": "codeforces\\1321\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Navigation System",
+    "problem_url": "https://codeforces.com/contest/1321/problem/D",
+    "submission_id": "CF72219166",
+    "submission_url": "https://codeforces.com/contest/1321/submission/72219166",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "*1700"
+    ],
+    "timestamp": "Mar/01/2020 16:25"
+  },
   "CF72281547": {
     "contest_id": 651,
     "language": "Java 11",
