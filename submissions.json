@@ -1,4 +1,20 @@
 {
+  "AC10415111": {
+    "contest_id": "aising2019",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\aising2019\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Bulletin Board",
+    "problem_url": "https://atcoder.jp/contests/aising2019/tasks/aising2019_a",
+    "submission_id": "AC10415111",
+    "submission_url": "https://atcoder.jp/contests/aising2019/submissions/10415111",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/29/2020 20:01"
+  },
   "AC10415137": {
     "contest_id": "aising2019",
     "language": "Java8 (OpenJDK 1.8.0)",
