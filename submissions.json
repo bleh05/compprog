@@ -1,4 +1,20 @@
 {
+  "AC10481592": {
+    "contest_id": "abc157",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc157\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Duplex Printing",
+    "problem_url": "https://atcoder.jp/contests/abc157/tasks/abc157_a",
+    "submission_id": "AC10481592",
+    "submission_url": "https://atcoder.jp/contests/abc157/submissions/10481592",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/01/2020 21:05"
+  },
   "AC10481709": {
     "contest_id": "abc157",
     "language": "Java8 (OpenJDK 1.8.0)",
