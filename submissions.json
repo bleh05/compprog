@@ -1,4 +1,20 @@
 {
+  "AC10482603": {
+    "contest_id": "abc157",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc157\\E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Simple String Queries",
+    "problem_url": "https://atcoder.jp/contests/abc157/tasks/abc157_e",
+    "submission_id": "AC10482603",
+    "submission_url": "https://atcoder.jp/contests/abc157/submissions/10482603",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Mar/01/2020 22:14"
+  },
   "AC10647552": {
     "contest_id": "abc158",
     "language": "Java8 (OpenJDK 1.8.0)",
