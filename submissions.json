@@ -3396,6 +3396,25 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF72281547": {
+    "contest_id": 651,
+    "language": "Java 11",
+    "path": "codeforces\\651\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Joysticks",
+    "problem_url": "https://codeforces.com/contest/651/problem/A",
+    "submission_id": "CF72281547",
+    "submission_url": "https://codeforces.com/contest/651/submission/72281547",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Mar/02/2020 20:57"
+  },
   "CF72381604": {
     "contest_id": 1305,
     "language": "Java 11",
