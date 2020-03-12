@@ -1,4 +1,20 @@
 {
+  "AC10768752": {
+    "contest_id": "abc077",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\abc077\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Rotation",
+    "problem_url": "https://atcoder.jp/contests/abc077/tasks/abc077_a",
+    "submission_id": "AC10768752",
+    "submission_url": "https://atcoder.jp/contests/abc077/submissions/10768752",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/11/2020 20:52"
+  },
   "AC10768769": {
     "contest_id": "abc077",
     "language": "Java8 (OpenJDK 1.8.0)",
