@@ -1,4 +1,20 @@
 {
+  "AC10801551": {
+    "contest_id": "hitachi2020",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\hitachi2020\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Hitachi String",
+    "problem_url": "https://atcoder.jp/contests/hitachi2020/tasks/hitachi2020_a",
+    "submission_id": "AC10801551",
+    "submission_url": "https://atcoder.jp/contests/hitachi2020/submissions/10801551",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/13/2020 08:18"
+  },
   "AC10801769": {
     "contest_id": "hitachi2020",
     "language": "Java8 (OpenJDK 1.8.0)",
