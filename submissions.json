@@ -1,4 +1,20 @@
 {
+  "AC11680317": {
+    "contest_id": "dp",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\dp\\G.java",
+    "platform": "AtCoder",
+    "problem_index": "G",
+    "problem_name": "Longest Path",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_g",
+    "submission_id": "AC11680317",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/11680317",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Apr/08/2020 17:09"
+  },
   "AC11684721": {
     "contest_id": "dp",
     "language": "Java8 (OpenJDK 1.8.0)",
