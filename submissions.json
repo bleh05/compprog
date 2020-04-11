@@ -1,4 +1,20 @@
 {
+  "AC11763192": {
+    "contest_id": "dp",
+    "language": "Java8 (OpenJDK 1.8.0)",
+    "path": "atcoder\\dp\\R.java",
+    "platform": "AtCoder",
+    "problem_index": "R",
+    "problem_name": "Walk",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_r",
+    "submission_id": "AC11763192",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/11763192",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Apr/11/2020 12:46"
+  },
   "AC16602927": {
     "contest_id": "agc047",
     "language": "C++ (GCC 9.2.1)",
