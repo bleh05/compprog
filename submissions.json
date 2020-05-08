@@ -3396,6 +3396,26 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF79396171": {
+    "contest_id": 912,
+    "language": "Java 8",
+    "path": "codeforces\\912\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Fishes",
+    "problem_url": "https://codeforces.com/contest/912/problem/D",
+    "submission_id": "CF79396171",
+    "submission_url": "https://codeforces.com/contest/912/submission/79396171",
+    "tags": [
+      "data structures",
+      "graphs",
+      "greedy",
+      "probabilities",
+      "shortest paths",
+      "*2100"
+    ],
+    "timestamp": "May/08/2020 11:12"
+  },
   "CF79492971": {
     "contest_id": 1352,
     "language": "Java 8",
