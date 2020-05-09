@@ -3396,6 +3396,22 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF79492971": {
+    "contest_id": 1352,
+    "language": "Java 8",
+    "path": "codeforces\\1352\\G.java",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Special Permutation",
+    "problem_url": "https://codeforces.com/contest/1352/problem/G",
+    "submission_id": "CF79492971",
+    "submission_url": "https://codeforces.com/contest/1352/submission/79492971",
+    "tags": [
+      "constructive algorithms",
+      "*1600"
+    ],
+    "timestamp": "May/09/2020 09:56"
+  },
   "CF79510927": {
     "contest_id": 1352,
     "language": "Java 8",
