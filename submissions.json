@@ -3396,6 +3396,22 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF79545956": {
+    "contest_id": 1352,
+    "language": "Java 8",
+    "path": "codeforces\\1352\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Alice, Bob and Candies",
+    "problem_url": "https://codeforces.com/contest/1352/problem/D",
+    "submission_id": "CF79545956",
+    "submission_url": "https://codeforces.com/contest/1352/submission/79545956",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/09/2020 11:03"
+  },
   "CF79547913": {
     "contest_id": 1352,
     "language": "Java 8",
