@@ -3396,6 +3396,23 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF79551811": {
+    "contest_id": 1352,
+    "language": "Java 8",
+    "path": "codeforces\\1352\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Same Parity Summands",
+    "problem_url": "https://codeforces.com/contest/1352/problem/B",
+    "submission_id": "CF79551811",
+    "submission_url": "https://codeforces.com/contest/1352/submission/79551811",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/09/2020 11:13"
+  },
   "CF79554255": {
     "contest_id": 1352,
     "language": "Java 8",
