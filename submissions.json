@@ -3396,6 +3396,25 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF79786155": {
+    "contest_id": 811,
+    "language": "Java 8",
+    "path": "codeforces\\811\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vladik and Favorite Game",
+    "problem_url": "https://codeforces.com/contest/811/problem/D",
+    "submission_id": "CF79786155",
+    "submission_url": "https://codeforces.com/contest/811/submission/79786155",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "interactive",
+      "*2100"
+    ],
+    "timestamp": "May/11/2020 17:20"
+  },
   "CF80246028": {
     "contest_id": 1220,
     "language": "Java 8",
