@@ -3396,6 +3396,24 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF80246028": {
+    "contest_id": 1220,
+    "language": "Java 8",
+    "path": "codeforces\\1220\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Alex and Julian",
+    "problem_url": "https://codeforces.com/contest/1220/problem/D",
+    "submission_id": "CF80246028",
+    "submission_url": "https://codeforces.com/contest/1220/submission/80246028",
+    "tags": [
+      "bitmasks",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "May/15/2020 11:43"
+  },
   "CF80312983": {
     "contest_id": 1355,
     "language": "Java 8",
