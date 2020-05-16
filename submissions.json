@@ -3396,6 +3396,22 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF80417386": {
+    "contest_id": 1132,
+    "language": "Java 8",
+    "path": "codeforces\\1132\\F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Clear the String",
+    "problem_url": "https://codeforces.com/contest/1132/problem/F",
+    "submission_id": "CF80417386",
+    "submission_url": "https://codeforces.com/contest/1132/submission/80417386",
+    "tags": [
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "May/16/2020 16:42"
+  },
   "CF80643915": {
     "contest_id": 498,
     "language": "Java 8",
