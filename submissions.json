@@ -3396,6 +3396,26 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF80654398": {
+    "contest_id": 576,
+    "language": "Java 8",
+    "path": "codeforces\\576\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Points on Plane",
+    "problem_url": "https://codeforces.com/contest/576/problem/C",
+    "submission_id": "CF80654398",
+    "submission_url": "https://codeforces.com/contest/576/submission/80654398",
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "geometry",
+      "greedy",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/18/2020 23:42"
+  },
   "CF80808994": {
     "contest_id": 295,
     "language": "Java 8",
