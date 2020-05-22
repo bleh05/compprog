@@ -3396,6 +3396,24 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF80954576": {
+    "contest_id": 980,
+    "language": "Java 8",
+    "path": "codeforces\\980\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Perfect Groups",
+    "problem_url": "https://codeforces.com/contest/980/problem/D",
+    "submission_id": "CF80954576",
+    "submission_url": "https://codeforces.com/contest/980/submission/80954576",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "*2100"
+    ],
+    "timestamp": "May/22/2020 11:48"
+  },
   "CF80964230": {
     "contest_id": 524,
     "language": "Java 8",
