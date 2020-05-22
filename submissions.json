@@ -3396,6 +3396,24 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF80899527": {
+    "contest_id": 1029,
+    "language": "Java 8",
+    "path": "codeforces\\1029\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tree with Small Distances",
+    "problem_url": "https://codeforces.com/contest/1029/problem/E",
+    "submission_id": "CF80899527",
+    "submission_url": "https://codeforces.com/contest/1029/submission/80899527",
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/21/2020 22:51"
+  },
   "CF80954576": {
     "contest_id": 980,
     "language": "Java 8",
