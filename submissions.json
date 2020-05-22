@@ -3396,6 +3396,23 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF80964230": {
+    "contest_id": 524,
+    "language": "Java 8",
+    "path": "codeforces\\524\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Social Network",
+    "problem_url": "https://codeforces.com/contest/524/problem/D",
+    "submission_id": "CF80964230",
+    "submission_url": "https://codeforces.com/contest/524/submission/80964230",
+    "tags": [
+      "greedy",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "May/22/2020 14:04"
+  },
   "CF81035143": {
     "contest_id": 959,
     "language": "Java 8",
