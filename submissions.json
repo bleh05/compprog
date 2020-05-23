@@ -3396,6 +3396,25 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF81042066": {
+    "contest_id": 959,
+    "language": "Java 8",
+    "path": "codeforces\\959\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Mahmoud and Ehab and another array construction task",
+    "problem_url": "https://codeforces.com/contest/959/problem/D",
+    "submission_id": "CF81042066",
+    "submission_url": "https://codeforces.com/contest/959/submission/81042066",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "May/23/2020 13:58"
+  },
   "CF81052855": {
     "contest_id": 730,
     "language": "Java 8",
