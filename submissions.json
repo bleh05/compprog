@@ -3396,6 +3396,24 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF81036156": {
+    "contest_id": 959,
+    "language": "Java 8",
+    "path": "codeforces\\959\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mahmoud and Ehab and the message",
+    "problem_url": "https://codeforces.com/contest/959/problem/B",
+    "submission_id": "CF81036156",
+    "submission_url": "https://codeforces.com/contest/959/submission/81036156",
+    "tags": [
+      "dsu",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/23/2020 12:30"
+  },
   "CF81037684": {
     "contest_id": 959,
     "language": "Java 8",
