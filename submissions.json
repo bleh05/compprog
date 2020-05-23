@@ -3396,6 +3396,23 @@
     ],
     "timestamp": "Feb/27/2020 17:23"
   },
+  "CF81052855": {
+    "contest_id": 730,
+    "language": "Java 8",
+    "path": "codeforces\\730\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bulmart",
+    "problem_url": "https://codeforces.com/contest/730/problem/C",
+    "submission_id": "CF81052855",
+    "submission_url": "https://codeforces.com/contest/730/submission/81052855",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "*2100"
+    ],
+    "timestamp": "May/23/2020 18:54"
+  },
   "CF81058032": {
     "contest_id": 81,
     "language": "Java 8",
