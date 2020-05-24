@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81058032": {
+    "contest_id": 81,
+    "language": "Java 8",
+    "path": "codeforces\\81\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Polycarp's Picture Gallery",
+    "problem_url": "https://codeforces.com/contest/81/problem/D",
+    "submission_id": "CF81058032",
+    "submission_url": "https://codeforces.com/contest/81/submission/81058032",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/23/2020 22:39"
+  },
   "CF81340379": {
     "contest_id": 776,
     "language": "Java 8",
