@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81420748": {
+    "contest_id": 538,
+    "language": "Java 8",
+    "path": "codeforces\\538\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cutting Banner",
+    "problem_url": "https://codeforces.com/contest/538/problem/A",
+    "submission_id": "CF81420748",
+    "submission_url": "https://codeforces.com/contest/538/submission/81420748",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/25/2020 15:42"
+  },
   "CF81422003": {
     "contest_id": 851,
     "language": "Java 8",
