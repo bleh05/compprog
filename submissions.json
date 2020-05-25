@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81340379": {
+    "contest_id": 776,
+    "language": "Java 8",
+    "path": "codeforces\\776\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Holmes Children",
+    "problem_url": "https://codeforces.com/contest/776/problem/E",
+    "submission_id": "CF81340379",
+    "submission_url": "https://codeforces.com/contest/776/submission/81340379",
+    "tags": [
+      "math",
+      "number theory",
+      "*2100"
+    ],
+    "timestamp": "May/24/2020 20:59"
+  },
   "CF81344328": {
     "contest_id": 988,
     "language": "Java 8",
