@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81422003": {
+    "contest_id": 851,
+    "language": "Java 8",
+    "path": "codeforces\\851\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Arpa and an exam about geometry",
+    "problem_url": "https://codeforces.com/contest/851/problem/B",
+    "submission_id": "CF81422003",
+    "submission_url": "https://codeforces.com/contest/851/submission/81422003",
+    "tags": [
+      "geometry",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/25/2020 16:13"
+  },
   "CF81427261": {
     "contest_id": 954,
     "language": "Java 8",
