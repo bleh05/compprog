@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81403998": {
+    "contest_id": 762,
+    "language": "Java 8",
+    "path": "codeforces\\762\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Two strings",
+    "problem_url": "https://codeforces.com/contest/762/problem/C",
+    "submission_id": "CF81403998",
+    "submission_url": "https://codeforces.com/contest/762/submission/81403998",
+    "tags": [
+      "binary search",
+      "hashing",
+      "strings",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "May/25/2020 11:51"
+  },
   "CF81420748": {
     "contest_id": 538,
     "language": "Java 8",
