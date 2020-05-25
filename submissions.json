@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81344328": {
+    "contest_id": 988,
+    "language": "Java 8",
+    "path": "codeforces\\988\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Divisibility by 25",
+    "problem_url": "https://codeforces.com/contest/988/problem/E",
+    "submission_id": "CF81344328",
+    "submission_url": "https://codeforces.com/contest/988/submission/81344328",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/24/2020 22:35"
+  },
   "CF81403998": {
     "contest_id": 762,
     "language": "Java 8",
