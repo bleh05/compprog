@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81431259": {
+    "contest_id": 852,
+    "language": "Java 8",
+    "path": "codeforces\\852\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Casinos and travel",
+    "problem_url": "https://codeforces.com/contest/852/problem/E",
+    "submission_id": "CF81431259",
+    "submission_url": "https://codeforces.com/contest/852/submission/81431259",
+    "tags": [
+      "dp",
+      "*2100"
+    ],
+    "timestamp": "May/25/2020 21:53"
+  },
   "CF81480874": {
     "contest_id": 1358,
     "language": "Java 8",
