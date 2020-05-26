@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81480874": {
+    "contest_id": 1358,
+    "language": "Java 8",
+    "path": "codeforces\\1358\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Park Lighting",
+    "problem_url": "https://codeforces.com/contest/1358/problem/A",
+    "submission_id": "CF81480874",
+    "submission_url": "https://codeforces.com/contest/1358/submission/81480874",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/26/2020 09:37"
+  },
   "CF81490502": {
     "contest_id": 1358,
     "language": "Java 8",
