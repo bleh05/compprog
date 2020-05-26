@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81517884": {
+    "contest_id": 1358,
+    "language": "Java 8",
+    "path": "codeforces\\1358\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Celex Update",
+    "problem_url": "https://codeforces.com/contest/1358/problem/C",
+    "submission_id": "CF81517884",
+    "submission_url": "https://codeforces.com/contest/1358/submission/81517884",
+    "tags": [
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/26/2020 10:28"
+  },
   "CF81542362": {
     "contest_id": 1358,
     "language": "Java 8",
