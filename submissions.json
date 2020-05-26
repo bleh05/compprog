@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81566338": {
+    "contest_id": 507,
+    "language": "Java 8",
+    "path": "codeforces\\507\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Breaking Good",
+    "problem_url": "https://codeforces.com/contest/507/problem/E",
+    "submission_id": "CF81566338",
+    "submission_url": "https://codeforces.com/contest/507/submission/81566338",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*2100"
+    ],
+    "timestamp": "May/26/2020 16:48"
+  },
   "CF81572550": {
     "contest_id": 837,
     "language": "Java 8",
