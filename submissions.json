@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81572550": {
+    "contest_id": 837,
+    "language": "Java 8",
+    "path": "codeforces\\837\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Vasya's Function",
+    "problem_url": "https://codeforces.com/contest/837/problem/E",
+    "submission_id": "CF81572550",
+    "submission_url": "https://codeforces.com/contest/837/submission/81572550",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/26/2020 20:43"
+  },
   "CF81650527": {
     "contest_id": 711,
     "language": "Java 8",
