@@ -1044,6 +1044,26 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81651492": {
+    "contest_id": 843,
+    "language": "Java 8",
+    "path": "codeforces\\843\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sorting by Subsequences",
+    "problem_url": "https://codeforces.com/contest/843/problem/A",
+    "submission_id": "CF81651492",
+    "submission_url": "https://codeforces.com/contest/843/submission/81651492",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "implementation",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/27/2020 14:34"
+  },
   "CF81657045": {
     "contest_id": 1185,
     "language": "Java 8",
