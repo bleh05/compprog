@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81650527": {
+    "contest_id": 711,
+    "language": "Java 8",
+    "path": "codeforces\\711\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chris and Magic Square",
+    "problem_url": "https://codeforces.com/contest/711/problem/B",
+    "submission_id": "CF81650527",
+    "submission_url": "https://codeforces.com/contest/711/submission/81650527",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/27/2020 14:17"
+  },
   "CF81651492": {
     "contest_id": 843,
     "language": "Java 8",
