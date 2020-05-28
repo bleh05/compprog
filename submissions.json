@@ -1044,6 +1044,26 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81726411": {
+    "contest_id": 1359,
+    "language": "Java 8",
+    "path": "codeforces\\1359\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Theatre Square",
+    "problem_url": "https://codeforces.com/contest/1359/problem/B",
+    "submission_id": "CF81726411",
+    "submission_url": "https://codeforces.com/contest/1359/submission/81726411",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1000"
+    ],
+    "timestamp": "May/28/2020 09:49"
+  },
   "CF81916519": {
     "contest_id": 525,
     "language": "Java 8",
