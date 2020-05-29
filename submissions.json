@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81922318": {
+    "contest_id": 797,
+    "language": "Java 8",
+    "path": "codeforces\\797\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Odd sum",
+    "problem_url": "https://codeforces.com/contest/797/problem/B",
+    "submission_id": "CF81922318",
+    "submission_url": "https://codeforces.com/contest/797/submission/81922318",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/29/2020 14:08"
+  },
   "CF81924321": {
     "contest_id": 295,
     "language": "Java 8",
