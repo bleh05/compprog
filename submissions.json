@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF81924321": {
+    "contest_id": 295,
+    "language": "Java 8",
+    "path": "codeforces\\295\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Greg and Array",
+    "problem_url": "https://codeforces.com/contest/295/problem/A",
+    "submission_id": "CF81924321",
+    "submission_url": "https://codeforces.com/contest/295/submission/81924321",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/29/2020 14:47"
+  },
   "CF81927703": {
     "contest_id": 1202,
     "language": "GNU C++11",
