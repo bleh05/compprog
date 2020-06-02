@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF82330318": {
+    "contest_id": 675,
+    "language": "Java 8",
+    "path": "codeforces\\675\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Money Transfers",
+    "problem_url": "https://codeforces.com/contest/675/problem/C",
+    "submission_id": "CF82330318",
+    "submission_url": "https://codeforces.com/contest/675/submission/82330318",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "Jun/02/2020 11:53"
+  },
   "CF82343895": {
     "contest_id": 1360,
     "language": "Java 8",
