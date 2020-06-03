@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF82356283": {
+    "contest_id": 862,
+    "language": "Java 8",
+    "path": "codeforces\\862\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mahmoud and Ehab and the function",
+    "problem_url": "https://codeforces.com/contest/862/problem/E",
+    "submission_id": "CF82356283",
+    "submission_url": "https://codeforces.com/contest/862/submission/82356283",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "Jun/02/2020 22:18"
+  },
   "CF82412294": {
     "contest_id": 632,
     "language": "Java 8",
