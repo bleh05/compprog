@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF82412294": {
+    "contest_id": 632,
+    "language": "Java 8",
+    "path": "codeforces\\632\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Longest Subsequence",
+    "problem_url": "https://codeforces.com/contest/632/problem/D",
+    "submission_id": "CF82412294",
+    "submission_url": "https://codeforces.com/contest/632/submission/82412294",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*2100"
+    ],
+    "timestamp": "Jun/03/2020 10:34"
+  },
   "CF82429822": {
     "contest_id": 877,
     "language": "Java 8",
