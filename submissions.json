@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF82505453": {
+    "contest_id": 1362,
+    "language": "Java 8",
+    "path": "codeforces\\1362\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Johnny and Another Rating Drop",
+    "problem_url": "https://codeforces.com/contest/1362/problem/C",
+    "submission_id": "CF82505453",
+    "submission_url": "https://codeforces.com/contest/1362/submission/82505453",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jun/04/2020 09:57"
+  },
   "CF82525430": {
     "contest_id": 1362,
     "language": "Java 8",
