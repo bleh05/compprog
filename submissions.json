@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF82796857": {
+    "contest_id": 1365,
+    "language": "Java 8",
+    "path": "codeforces\\1365\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Trouble Sort",
+    "problem_url": "https://codeforces.com/contest/1365/problem/B",
+    "submission_id": "CF82796857",
+    "submission_url": "https://codeforces.com/contest/1365/submission/82796857",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jun/07/2020 09:49"
+  },
   "CF82801965": {
     "contest_id": 1365,
     "language": "Java 8",
