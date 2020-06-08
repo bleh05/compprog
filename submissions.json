@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF83148383": {
+    "contest_id": 1056,
+    "language": "Java 8",
+    "path": "codeforces\\1056\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Check Transcription",
+    "problem_url": "https://codeforces.com/contest/1056/problem/E",
+    "submission_id": "CF83148383",
+    "submission_url": "https://codeforces.com/contest/1056/submission/83148383",
+    "tags": [
+      "brute force",
+      "data structures",
+      "hashing",
+      "strings",
+      "*2100"
+    ],
+    "timestamp": "Jun/08/2020 10:09"
+  },
   "CF83244632": {
     "contest_id": 1175,
     "language": "Java 8",
