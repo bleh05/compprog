@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF83395545": {
+    "contest_id": 1366,
+    "language": "Java 8",
+    "path": "codeforces\\1366\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shovels and Swords",
+    "problem_url": "https://codeforces.com/contest/1366/problem/A",
+    "submission_id": "CF83395545",
+    "submission_url": "https://codeforces.com/contest/1366/submission/83395545",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/11/2020 09:47"
+  },
   "CF83410602": {
     "contest_id": 1366,
     "language": "Java 8",
