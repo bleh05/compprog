@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF83422446": {
+    "contest_id": 1366,
+    "language": "Java 8",
+    "path": "codeforces\\1366\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Palindromic Paths",
+    "problem_url": "https://codeforces.com/contest/1366/problem/C",
+    "submission_id": "CF83422446",
+    "submission_url": "https://codeforces.com/contest/1366/submission/83422446",
+    "tags": [
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jun/11/2020 10:24"
+  },
   "CF83485158": {
     "contest_id": 349,
     "language": "Java 8",
