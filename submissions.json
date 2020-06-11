@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF83485933": {
+    "contest_id": 487,
+    "language": "Java 8",
+    "path": "codeforces\\487\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fight the Monster",
+    "problem_url": "https://codeforces.com/contest/487/problem/A",
+    "submission_id": "CF83485933",
+    "submission_url": "https://codeforces.com/contest/487/submission/83485933",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Jun/11/2020 18:09"
+  },
   "CF83490381": {
     "contest_id": 3,
     "language": "Java 8",
