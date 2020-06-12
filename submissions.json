@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF83490381": {
+    "contest_id": 3,
+    "language": "Java 8",
+    "path": "codeforces\\3\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lorry",
+    "problem_url": "https://codeforces.com/contest/3/problem/B",
+    "submission_id": "CF83490381",
+    "submission_url": "https://codeforces.com/contest/3/submission/83490381",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Jun/11/2020 21:07"
+  },
   "CF83620615": {
     "contest_id": 1338,
     "language": "Java 8",
