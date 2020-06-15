@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF83868829": {
+    "contest_id": 555,
+    "language": "Java 8",
+    "path": "codeforces\\555\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Case of Chocolate",
+    "problem_url": "https://codeforces.com/contest/555/problem/C",
+    "submission_id": "CF83868829",
+    "submission_url": "https://codeforces.com/contest/555/submission/83868829",
+    "tags": [
+      "data structures",
+      "*2200"
+    ],
+    "timestamp": "Jun/15/2020 13:15"
+  },
   "CF83991852": {
     "contest_id": 1367,
     "language": "Java 8",
