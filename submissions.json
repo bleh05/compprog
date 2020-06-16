@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF83992023": {
+    "contest_id": 1367,
+    "language": "Java 8",
+    "path": "codeforces\\1367\\F1.java",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Flying Sort (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1367/problem/F1",
+    "submission_id": "CF83992023",
+    "submission_url": "https://codeforces.com/contest/1367/submission/83992023",
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "Jun/16/2020 10:37"
+  },
   "CF84024638": {
     "contest_id": 1367,
     "language": "Java 8",
