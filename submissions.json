@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF84171711": {
+    "contest_id": 1368,
+    "language": "Java 8",
+    "path": "codeforces\\1368\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "C+=",
+    "problem_url": "https://codeforces.com/contest/1368/problem/A",
+    "submission_id": "CF84171711",
+    "submission_url": "https://codeforces.com/contest/1368/submission/84171711",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/18/2020 09:48"
+  },
   "CF84177536": {
     "contest_id": 1368,
     "language": "Java 8",
