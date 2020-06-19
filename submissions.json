@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF84367831": {
+    "contest_id": 538,
+    "language": "Java 8",
+    "path": "codeforces\\538\\F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "A Heap of Heaps",
+    "problem_url": "https://codeforces.com/contest/538/problem/F",
+    "submission_id": "CF84367831",
+    "submission_url": "https://codeforces.com/contest/538/submission/84367831",
+    "tags": [
+      "brute force",
+      "data structures",
+      "math",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "Jun/19/2020 16:50"
+  },
   "CF84369122": {
     "contest_id": 407,
     "language": "Java 8",
