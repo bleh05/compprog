@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF84535345": {
+    "contest_id": 284,
+    "language": "Java 8",
+    "path": "codeforces\\284\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cows and Primitive Roots",
+    "problem_url": "https://codeforces.com/contest/284/problem/A",
+    "submission_id": "CF84535345",
+    "submission_url": "https://codeforces.com/contest/284/submission/84535345",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Jun/20/2020 17:52"
+  },
   "CF84595456": {
     "contest_id": 920,
     "language": "Java 8",
