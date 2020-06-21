@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF84604754": {
+    "contest_id": 992,
+    "language": "Java 8",
+    "path": "codeforces\\992\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Nastya and a Wardrobe",
+    "problem_url": "https://codeforces.com/contest/992/problem/C",
+    "submission_id": "CF84604754",
+    "submission_url": "https://codeforces.com/contest/992/submission/84604754",
+    "tags": [
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jun/21/2020 12:13"
+  },
   "CF84605985": {
     "contest_id": 1228,
     "language": "Java 8",
