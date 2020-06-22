@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF84678037": {
+    "contest_id": 1110,
+    "language": "Java 8",
+    "path": "codeforces\\1110\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Magic Stones",
+    "problem_url": "https://codeforces.com/contest/1110/problem/E",
+    "submission_id": "CF84678037",
+    "submission_url": "https://codeforces.com/contest/1110/submission/84678037",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "Jun/22/2020 10:31"
+  },
   "CF84692062": {
     "contest_id": 1117,
     "language": "Java 8",
