@@ -1044,6 +1044,26 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF84911113": {
+    "contest_id": 997,
+    "language": "Java 8",
+    "path": "codeforces\\997\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Roman Digits",
+    "problem_url": "https://codeforces.com/contest/997/problem/B",
+    "submission_id": "CF84911113",
+    "submission_url": "https://codeforces.com/contest/997/submission/84911113",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "greedy",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Jun/24/2020 11:56"
+  },
   "CF84925582": {
     "contest_id": 550,
     "language": "Java 8",
