@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF84849551": {
+    "contest_id": 1045,
+    "language": "GNU C++17",
+    "path": "codeforces\\1045\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Interstellar battle",
+    "problem_url": "https://codeforces.com/contest/1045/problem/D",
+    "submission_id": "CF84849551",
+    "submission_url": "https://codeforces.com/contest/1045/submission/84849551",
+    "tags": [
+      "math",
+      "probabilities",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Jun/23/2020 22:32"
+  },
   "CF84911113": {
     "contest_id": 997,
     "language": "Java 8",
