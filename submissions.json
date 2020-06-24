@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF84925582": {
+    "contest_id": 550,
+    "language": "Java 8",
+    "path": "codeforces\\550\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Brackets in Implications",
+    "problem_url": "https://codeforces.com/contest/550/problem/E",
+    "submission_id": "CF84925582",
+    "submission_url": "https://codeforces.com/contest/550/submission/84925582",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Jun/24/2020 16:04"
+  },
   "CF84935444": {
     "contest_id": 1190,
     "language": "Java 8",
