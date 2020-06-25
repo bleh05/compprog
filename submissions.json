@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF85037710": {
+    "contest_id": 1373,
+    "language": "Java 8",
+    "path": "codeforces\\1373\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sum of Digits",
+    "problem_url": "https://codeforces.com/contest/1373/problem/E",
+    "submission_id": "CF85037710",
+    "submission_url": "https://codeforces.com/contest/1373/submission/85037710",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Jun/25/2020 11:01"
+  },
   "CF85141366": {
     "contest_id": 985,
     "language": "Java 8",
