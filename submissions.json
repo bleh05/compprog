@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF84935444": {
+    "contest_id": 1190,
+    "language": "Java 8",
+    "path": "codeforces\\1190\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tokitsukaze and Duel",
+    "problem_url": "https://codeforces.com/contest/1190/problem/C",
+    "submission_id": "CF84935444",
+    "submission_url": "https://codeforces.com/contest/1190/submission/84935444",
+    "tags": [
+      "brute force",
+      "games",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "Jun/24/2020 22:33"
+  },
   "CF84985355": {
     "contest_id": 1373,
     "language": "Java 8",
