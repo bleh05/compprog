@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF85233019": {
+    "contest_id": 1167,
+    "language": "Java 8",
+    "path": "codeforces\\1167\\F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Scalar Queries",
+    "problem_url": "https://codeforces.com/contest/1167/problem/F",
+    "submission_id": "CF85233019",
+    "submission_url": "https://codeforces.com/contest/1167/submission/85233019",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "math",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "Jun/27/2020 11:46"
+  },
   "CF85254145": {
     "contest_id": 585,
     "language": "Java 8",
