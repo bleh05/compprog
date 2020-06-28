@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF85408562": {
+    "contest_id": 812,
+    "language": "Java 8",
+    "path": "codeforces\\812\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sagheer and Apple Tree",
+    "problem_url": "https://codeforces.com/contest/812/problem/E",
+    "submission_id": "CF85408562",
+    "submission_url": "https://codeforces.com/contest/812/submission/85408562",
+    "tags": [
+      "games",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "Jun/28/2020 16:21"
+  },
   "CF85416212": {
     "contest_id": 515,
     "language": "GNU C++17",
