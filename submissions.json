@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF85254145": {
+    "contest_id": 585,
+    "language": "Java 8",
+    "path": "codeforces\\585\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lizard Era: Beginning",
+    "problem_url": "https://codeforces.com/contest/585/problem/D",
+    "submission_id": "CF85254145",
+    "submission_url": "https://codeforces.com/contest/585/submission/85254145",
+    "tags": [
+      "meet-in-the-middle",
+      "*2300"
+    ],
+    "timestamp": "Jun/27/2020 22:12"
+  },
   "CF85408562": {
     "contest_id": 812,
     "language": "Java 8",
