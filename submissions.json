@@ -1044,6 +1044,22 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF85416212": {
+    "contest_id": 515,
+    "language": "GNU C++17",
+    "path": "codeforces\\515\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Drazil and Park",
+    "problem_url": "https://codeforces.com/contest/515/problem/E",
+    "submission_id": "CF85416212",
+    "submission_url": "https://codeforces.com/contest/515/submission/85416212",
+    "tags": [
+      "data structures",
+      "*2300"
+    ],
+    "timestamp": "Jun/28/2020 21:12"
+  },
   "CF85580628": {
     "contest_id": 830,
     "language": "GNU C++17",
