@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF85810548": {
+    "contest_id": 884,
+    "language": "Java 8",
+    "path": "codeforces\\884\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Boxes And Balls",
+    "problem_url": "https://codeforces.com/contest/884/problem/D",
+    "submission_id": "CF85810548",
+    "submission_url": "https://codeforces.com/contest/884/submission/85810548",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "Jul/02/2020 17:21"
+  },
   "CF85813770": {
     "contest_id": 1245,
     "language": "Java 8",
