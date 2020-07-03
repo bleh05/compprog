@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF85881824": {
+    "contest_id": 1172,
+    "language": "GNU C++17",
+    "path": "codeforces\\1172\\C1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Nauuo and Pictures (easy version)",
+    "problem_url": "https://codeforces.com/contest/1172/problem/C1",
+    "submission_id": "CF85881824",
+    "submission_url": "https://codeforces.com/contest/1172/submission/85881824",
+    "tags": [
+      "dp",
+      "probabilities",
+      "*2300"
+    ],
+    "timestamp": "Jul/03/2020 15:19"
+  },
   "CF85886255": {
     "contest_id": 1228,
     "language": "GNU C++17",
