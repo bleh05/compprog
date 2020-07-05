@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF86079121": {
+    "contest_id": 512,
+    "language": "Java 8",
+    "path": "codeforces\\512\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fox And Dinner",
+    "problem_url": "https://codeforces.com/contest/512/problem/C",
+    "submission_id": "CF86079121",
+    "submission_url": "https://codeforces.com/contest/512/submission/86079121",
+    "tags": [
+      "flows",
+      "graph matchings",
+      "*2300"
+    ],
+    "timestamp": "Jul/05/2020 15:08"
+  },
   "CF86157046": {
     "contest_id": 610,
     "language": "Java 8",
