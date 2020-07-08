@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF86300587": {
+    "contest_id": 574,
+    "language": "GNU C++17",
+    "path": "codeforces\\574\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bear and Drawing",
+    "problem_url": "https://codeforces.com/contest/574/problem/E",
+    "submission_id": "CF86300587",
+    "submission_url": "https://codeforces.com/contest/574/submission/86300587",
+    "tags": [
+      "constructive algorithms",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "Jul/08/2020 13:47"
+  },
   "CF86374199": {
     "contest_id": 858,
     "language": "Java 8",
