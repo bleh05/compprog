@@ -1044,6 +1044,24 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF86374199": {
+    "contest_id": 858,
+    "language": "Java 8",
+    "path": "codeforces\\858\\F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Wizard's Tour",
+    "problem_url": "https://codeforces.com/contest/858/problem/F",
+    "submission_id": "CF86374199",
+    "submission_url": "https://codeforces.com/contest/858/submission/86374199",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "*2300"
+    ],
+    "timestamp": "Jul/09/2020 13:01"
+  },
   "CF86385700": {
     "contest_id": 1204,
     "language": "GNU C++17",
