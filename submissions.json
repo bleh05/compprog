@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF86513933": {
+    "contest_id": 1372,
+    "language": "Java 8",
+    "path": "codeforces\\1372\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Omkar and Completion",
+    "problem_url": "https://codeforces.com/contest/1372/problem/A",
+    "submission_id": "CF86513933",
+    "submission_url": "https://codeforces.com/contest/1372/submission/86513933",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/11/2020 10:06"
+  },
   "CF86520840": {
     "contest_id": 1372,
     "language": "Java 8",
