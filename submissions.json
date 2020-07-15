@@ -1044,6 +1044,23 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF86936347": {
+    "contest_id": 1093,
+    "language": "Java 8",
+    "path": "codeforces\\1093\\G.java",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Multidimensional Queries",
+    "problem_url": "https://codeforces.com/contest/1093/problem/G",
+    "submission_id": "CF86936347",
+    "submission_url": "https://codeforces.com/contest/1093/submission/86936347",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "*2300"
+    ],
+    "timestamp": "Jul/15/2020 13:04"
+  },
   "CF86947215": {
     "contest_id": 898,
     "language": "Java 8",
