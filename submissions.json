@@ -1044,6 +1044,26 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF87371121": {
+    "contest_id": 1379,
+    "language": "Java 8",
+    "path": "codeforces\\1379\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "New Passenger Trams",
+    "problem_url": "https://codeforces.com/contest/1379/problem/D",
+    "submission_id": "CF87371121",
+    "submission_url": "https://codeforces.com/contest/1379/submission/87371121",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "sortings",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "Jul/19/2020 11:15"
+  },
   "CF87388000": {
     "contest_id": 936,
     "language": "GNU C++17",
