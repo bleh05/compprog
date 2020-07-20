@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF87459707": {
+    "contest_id": 1217,
+    "language": "Java 8",
+    "path": "codeforces\\1217\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sum Queries?",
+    "problem_url": "https://codeforces.com/contest/1217/problem/E",
+    "submission_id": "CF87459707",
+    "submission_url": "https://codeforces.com/contest/1217/submission/87459707",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "Jul/20/2020 14:29"
+  },
   "CF87466152": {
     "contest_id": 718,
     "language": "GNU C++17",
