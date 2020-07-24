@@ -1044,6 +1044,28 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF87881416": {
+    "contest_id": 1383,
+    "language": "Java 8",
+    "path": "codeforces\\1383\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Transformation 1",
+    "problem_url": "https://codeforces.com/contest/1383/problem/A",
+    "submission_id": "CF87881416",
+    "submission_url": "https://codeforces.com/contest/1383/submission/87881416",
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "strings",
+      "trees",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Jul/24/2020 09:57"
+  },
   "CF88018262": {
     "contest_id": 547,
     "language": "Java 8",
