@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF88086345": {
+    "contest_id": 903,
+    "language": "GNU C++17",
+    "path": "codeforces\\903\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Swapping Characters",
+    "problem_url": "https://codeforces.com/contest/903/problem/E",
+    "submission_id": "CF88086345",
+    "submission_url": "https://codeforces.com/contest/903/submission/88086345",
+    "tags": [
+      "brute force",
+      "hashing",
+      "implementation",
+      "strings",
+      "*2200"
+    ],
+    "timestamp": "Jul/26/2020 16:11"
+  },
   "CF88093290": {
     "contest_id": 863,
     "language": "Java 8",
