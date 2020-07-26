@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF88023859": {
+    "contest_id": 182,
+    "language": "Java 8",
+    "path": "codeforces\\182\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Battlefield",
+    "problem_url": "https://codeforces.com/contest/182/problem/A",
+    "submission_id": "CF88023859",
+    "submission_url": "https://codeforces.com/contest/182/submission/88023859",
+    "tags": [
+      "geometry",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*2200"
+    ],
+    "timestamp": "Jul/25/2020 21:46"
+  },
   "CF88086345": {
     "contest_id": 903,
     "language": "GNU C++17",
