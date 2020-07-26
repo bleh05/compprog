@@ -1044,6 +1044,25 @@
     ],
     "timestamp": "Jan/09/2021 18:07"
   },
+  "CF88020772": {
+    "contest_id": 815,
+    "language": "GNU C++17",
+    "path": "codeforces\\815\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Karen and Test",
+    "problem_url": "https://codeforces.com/contest/815/problem/B",
+    "submission_id": "CF88020772",
+    "submission_url": "https://codeforces.com/contest/815/submission/88020772",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Jul/25/2020 19:19"
+  },
   "CF88023859": {
     "contest_id": 182,
     "language": "Java 8",
