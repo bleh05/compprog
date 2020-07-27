@@ -118,6 +118,23 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88153787": {
+    "contest_id": 431,
+    "language": "Java 8",
+    "path": "codeforces\\431\\E.java",
+    "problem_index": "E",
+    "problem_name": "Chemistry Experiment",
+    "problem_url": "https://codeforces.com/contest/431/problem/E",
+    "submission_id": "CF88153787",
+    "submission_url": "https://codeforces.com/contest/431/submission/88153787",
+    "tags": [
+      "binary search",
+      "data structures",
+      "ternary search",
+      "*2200"
+    ],
+    "timestamp": "Jul/27/2020 13:59"
+  },
   "CF88160974": {
     "contest_id": 1334,
     "language": "Java 8",
