@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88245566": {
+    "contest_id": 1208,
+    "language": "GNU C++17",
+    "path": "codeforces\\1208\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Let Them Slide",
+    "problem_url": "https://codeforces.com/contest/1208/problem/E",
+    "submission_id": "CF88245566",
+    "submission_url": "https://codeforces.com/contest/1208/submission/88245566",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "Jul/28/2020 21:48"
+  },
   "CF88612791": {
     "contest_id": 1238,
     "language": "Java 8",
