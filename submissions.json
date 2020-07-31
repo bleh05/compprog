@@ -118,6 +118,21 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88615815": {
+    "contest_id": 883,
+    "language": "GNU C++17",
+    "path": "codeforces\\883\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Automatic Door",
+    "problem_url": "https://codeforces.com/contest/883/problem/A",
+    "submission_id": "CF88615815",
+    "submission_url": "https://codeforces.com/contest/883/submission/88615815",
+    "tags": [
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "Jul/31/2020 13:19"
+  },
   "CF88617651": {
     "contest_id": 1238,
     "language": "GNU C++17",
