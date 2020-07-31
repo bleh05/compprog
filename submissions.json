@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88624357": {
+    "contest_id": 425,
+    "language": "Java 8",
+    "path": "codeforces\\425\\B.java",
+    "problem_index": "B",
+    "problem_name": "Sereja and Table ",
+    "problem_url": "https://codeforces.com/contest/425/problem/B",
+    "submission_id": "CF88624357",
+    "submission_url": "https://codeforces.com/contest/425/submission/88624357",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Jul/31/2020 17:14"
+  },
   "CF88625173": {
     "contest_id": 901,
     "language": "GNU C++17",
