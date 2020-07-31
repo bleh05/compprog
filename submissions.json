@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88625173": {
+    "contest_id": 901,
+    "language": "GNU C++17",
+    "path": "codeforces\\901\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "GCD of Polynomials",
+    "problem_url": "https://codeforces.com/contest/901/problem/B",
+    "submission_id": "CF88625173",
+    "submission_url": "https://codeforces.com/contest/901/submission/88625173",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Jul/31/2020 18:05"
+  },
   "CF88632266": {
     "contest_id": 282,
     "language": "Java 8",
