@@ -118,6 +118,24 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88612791": {
+    "contest_id": 1238,
+    "language": "Java 8",
+    "path": "codeforces\\1238\\F.java",
+    "problem_index": "F",
+    "problem_name": "The Maximum Subtree",
+    "problem_url": "https://codeforces.com/contest/1238/problem/F",
+    "submission_id": "CF88612791",
+    "submission_url": "https://codeforces.com/contest/1238/submission/88612791",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Jul/31/2020 12:27"
+  },
   "CF88615815": {
     "contest_id": 883,
     "language": "GNU C++17",
