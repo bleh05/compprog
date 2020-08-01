@@ -118,6 +118,23 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88632266": {
+    "contest_id": 282,
+    "language": "Java 8",
+    "path": "codeforces\\282\\E.java",
+    "problem_index": "E",
+    "problem_name": "Sausage Maximization",
+    "problem_url": "https://codeforces.com/contest/282/problem/E",
+    "submission_id": "CF88632266",
+    "submission_url": "https://codeforces.com/contest/282/submission/88632266",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Jul/31/2020 23:00"
+  },
   "CF88677552": {
     "contest_id": 616,
     "language": "Java 8",
