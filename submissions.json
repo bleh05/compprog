@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88763452": {
+    "contest_id": 813,
+    "language": "Java 8",
+    "path": "codeforces\\813\\E.java",
+    "problem_index": "E",
+    "problem_name": "Army Creation",
+    "problem_url": "https://codeforces.com/contest/813/problem/E",
+    "submission_id": "CF88763452",
+    "submission_url": "https://codeforces.com/contest/813/submission/88763452",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*2200"
+    ],
+    "timestamp": "Aug/02/2020 18:21"
+  },
   "CF88806904": {
     "contest_id": 618,
     "language": "Java 8",
