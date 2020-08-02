@@ -118,6 +118,24 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88698318": {
+    "contest_id": 839,
+    "language": "Java 8",
+    "path": "codeforces\\839\\D.java",
+    "problem_index": "D",
+    "problem_name": "Winter is here",
+    "problem_url": "https://codeforces.com/contest/839/problem/D",
+    "submission_id": "CF88698318",
+    "submission_url": "https://codeforces.com/contest/839/submission/88698318",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "Aug/01/2020 20:32"
+  },
   "CF88701466": {
     "contest_id": 47,
     "language": "Java 8",
