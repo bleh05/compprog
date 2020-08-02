@@ -118,6 +118,21 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88701466": {
+    "contest_id": 47,
+    "language": "Java 8",
+    "path": "codeforces\\47\\D.java",
+    "problem_index": "D",
+    "problem_name": "Safe",
+    "problem_url": "https://codeforces.com/contest/47/problem/D",
+    "submission_id": "CF88701466",
+    "submission_url": "https://codeforces.com/contest/47/submission/88701466",
+    "tags": [
+      "brute force",
+      "*2200"
+    ],
+    "timestamp": "Aug/01/2020 22:39"
+  },
   "CF88763452": {
     "contest_id": 813,
     "language": "Java 8",
