@@ -118,6 +118,21 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88830384": {
+    "contest_id": 980,
+    "language": "Java 8",
+    "path": "codeforces\\980\\B.java",
+    "problem_index": "B",
+    "problem_name": "Marlin",
+    "problem_url": "https://codeforces.com/contest/980/problem/B",
+    "submission_id": "CF88830384",
+    "submission_url": "https://codeforces.com/contest/980/submission/88830384",
+    "tags": [
+      "constructive algorithms",
+      "*1600"
+    ],
+    "timestamp": "Aug/03/2020 16:58"
+  },
   "CF88884797": {
     "contest_id": 1312,
     "language": "Java 8",
