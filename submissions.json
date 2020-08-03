@@ -118,6 +118,25 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88806904": {
+    "contest_id": 618,
+    "language": "Java 8",
+    "path": "codeforces\\618\\D.java",
+    "problem_index": "D",
+    "problem_name": "Hamiltonian Spanning Tree",
+    "problem_url": "https://codeforces.com/contest/618/problem/D",
+    "submission_id": "CF88806904",
+    "submission_url": "https://codeforces.com/contest/618/submission/88806904",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graph matchings",
+      "greedy",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Aug/03/2020 09:23"
+  },
   "CF88828824": {
     "contest_id": 1353,
     "language": "GNU C++17",
