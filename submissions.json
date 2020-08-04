@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF88884797": {
+    "contest_id": 1312,
+    "language": "Java 8",
+    "path": "codeforces\\1312\\D.java",
+    "problem_index": "D",
+    "problem_name": "Count the Arrays",
+    "problem_url": "https://codeforces.com/contest/1312/problem/D",
+    "submission_id": "CF88884797",
+    "submission_url": "https://codeforces.com/contest/1312/submission/88884797",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Aug/04/2020 10:33"
+  },
   "CF89214829": {
     "contest_id": 1393,
     "language": "Java 8",
