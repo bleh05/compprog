@@ -118,6 +118,24 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF89238655": {
+    "contest_id": 1393,
+    "language": "Java 8",
+    "path": "codeforces\\1393\\C.java",
+    "problem_index": "C",
+    "problem_name": "Pinkie Pie Eats Patty-cakes",
+    "problem_url": "https://codeforces.com/contest/1393/problem/C",
+    "submission_id": "CF89238655",
+    "submission_url": "https://codeforces.com/contest/1393/submission/89238655",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Aug/07/2020 10:15"
+  },
   "CF89408712": {
     "contest_id": 1391,
     "language": "Java 8",
