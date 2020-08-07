@@ -118,6 +118,24 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF89227590": {
+    "contest_id": 1393,
+    "language": "Java 8",
+    "path": "codeforces\\1393\\B.java",
+    "problem_index": "B",
+    "problem_name": "Applejack and Storages",
+    "problem_url": "https://codeforces.com/contest/1393/problem/B",
+    "submission_id": "CF89227590",
+    "submission_url": "https://codeforces.com/contest/1393/submission/89227590",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Aug/07/2020 09:57"
+  },
   "CF89238655": {
     "contest_id": 1393,
     "language": "Java 8",
