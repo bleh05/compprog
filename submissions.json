@@ -118,6 +118,24 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF89425333": {
+    "contest_id": 1391,
+    "language": "Java 8",
+    "path": "codeforces\\1391\\C.java",
+    "problem_index": "C",
+    "problem_name": "Cyclic Permutations ",
+    "problem_url": "https://codeforces.com/contest/1391/problem/C",
+    "submission_id": "CF89425333",
+    "submission_url": "https://codeforces.com/contest/1391/submission/89425333",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Aug/09/2020 09:53"
+  },
   "CF89528479": {
     "contest_id": 1092,
     "language": "Java 8",
