@@ -118,6 +118,23 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF89528479": {
+    "contest_id": 1092,
+    "language": "Java 8",
+    "path": "codeforces\\1092\\D1.java",
+    "problem_index": "D1",
+    "problem_name": "Great Vova Wall (Version 1)",
+    "problem_url": "https://codeforces.com/contest/1092/problem/D1",
+    "submission_id": "CF89528479",
+    "submission_url": "https://codeforces.com/contest/1092/submission/89528479",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Aug/10/2020 12:00"
+  },
   "CF89544105": {
     "contest_id": 559,
     "language": "Java 8",
