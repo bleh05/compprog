@@ -118,6 +118,24 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF89544105": {
+    "contest_id": 559,
+    "language": "Java 8",
+    "path": "codeforces\\559\\C.java",
+    "problem_index": "C",
+    "problem_name": "Gerald and Giant Chess",
+    "problem_url": "https://codeforces.com/contest/559/problem/C",
+    "submission_id": "CF89544105",
+    "submission_url": "https://codeforces.com/contest/559/submission/89544105",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "Aug/10/2020 21:55"
+  },
   "CF89599652": {
     "contest_id": 873,
     "language": "Java 8",
