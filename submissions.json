@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF89599652": {
+    "contest_id": 873,
+    "language": "Java 8",
+    "path": "codeforces\\873\\D.java",
+    "problem_index": "D",
+    "problem_name": "Merge Sort",
+    "problem_url": "https://codeforces.com/contest/873/problem/D",
+    "submission_id": "CF89599652",
+    "submission_url": "https://codeforces.com/contest/873/submission/89599652",
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "*1800"
+    ],
+    "timestamp": "Aug/11/2020 12:41"
+  },
   "CF89611687": {
     "contest_id": 894,
     "language": "Java 8",
