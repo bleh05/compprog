@@ -118,6 +118,23 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF89611687": {
+    "contest_id": 894,
+    "language": "Java 8",
+    "path": "codeforces\\894\\D.java",
+    "problem_index": "D",
+    "problem_name": "Ralph And His Tour in Binary Country",
+    "problem_url": "https://codeforces.com/contest/894/problem/D",
+    "submission_id": "CF89611687",
+    "submission_url": "https://codeforces.com/contest/894/submission/89611687",
+    "tags": [
+      "brute force",
+      "data structures",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Aug/11/2020 17:49"
+  },
   "CF89755113": {
     "contest_id": 585,
     "language": "Java 8",
