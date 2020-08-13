@@ -118,6 +118,23 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF89755113": {
+    "contest_id": 585,
+    "language": "Java 8",
+    "path": "codeforces\\585\\B.java",
+    "problem_index": "B",
+    "problem_name": "Phillip and Trains",
+    "problem_url": "https://codeforces.com/contest/585/problem/B",
+    "submission_id": "CF89755113",
+    "submission_url": "https://codeforces.com/contest/585/submission/89755113",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*1700"
+    ],
+    "timestamp": "Aug/12/2020 22:02"
+  },
   "CF89756162": {
     "contest_id": 167,
     "language": "Java 8",
