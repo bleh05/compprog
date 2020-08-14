@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF89883603": {
+    "contest_id": 1398,
+    "language": "Java 8",
+    "path": "codeforces\\1398\\A.java",
+    "problem_index": "A",
+    "problem_name": "Bad Triangle",
+    "problem_url": "https://codeforces.com/contest/1398/problem/A",
+    "submission_id": "CF89883603",
+    "submission_url": "https://codeforces.com/contest/1398/submission/89883603",
+    "tags": [
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/14/2020 09:40"
+  },
   "CF89890350": {
     "contest_id": 1398,
     "language": "Java 8",
