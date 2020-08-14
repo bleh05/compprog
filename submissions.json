@@ -118,6 +118,23 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF89922232": {
+    "contest_id": 1398,
+    "language": "Java 8",
+    "path": "codeforces\\1398\\D.java",
+    "problem_index": "D",
+    "problem_name": "Colored Rectangles",
+    "problem_url": "https://codeforces.com/contest/1398/problem/D",
+    "submission_id": "CF89922232",
+    "submission_url": "https://codeforces.com/contest/1398/submission/89922232",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Aug/14/2020 10:22"
+  },
   "CF89943868": {
     "contest_id": 1398,
     "language": "Java 8",
