@@ -118,6 +118,24 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF90143450": {
+    "contest_id": 1392,
+    "language": "Java 8",
+    "path": "codeforces\\1392\\E.java",
+    "problem_index": "E",
+    "problem_name": "Omkar and Duck",
+    "problem_url": "https://codeforces.com/contest/1392/problem/E",
+    "submission_id": "CF90143450",
+    "submission_url": "https://codeforces.com/contest/1392/submission/90143450",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Aug/16/2020 11:06"
+  },
   "CF90165554": {
     "contest_id": 1392,
     "language": "Java 8",
