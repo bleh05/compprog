@@ -118,6 +118,24 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF90249261": {
+    "contest_id": 313,
+    "language": "Java 8",
+    "path": "codeforces\\313\\C.java",
+    "problem_index": "C",
+    "problem_name": "Ilya and Matrix",
+    "problem_url": "https://codeforces.com/contest/313/problem/C",
+    "submission_id": "CF90249261",
+    "submission_url": "https://codeforces.com/contest/313/submission/90249261",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Aug/17/2020 11:43"
+  },
   "CF90271618": {
     "contest_id": 1242,
     "language": "Java 8",
