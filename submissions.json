@@ -118,6 +118,23 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF90247854": {
+    "contest_id": 283,
+    "language": "Java 8",
+    "path": "codeforces\\283\\A.java",
+    "problem_index": "A",
+    "problem_name": "Cows and Sequence",
+    "problem_url": "https://codeforces.com/contest/283/problem/A",
+    "submission_id": "CF90247854",
+    "submission_url": "https://codeforces.com/contest/283/submission/90247854",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Aug/17/2020 11:25"
+  },
   "CF90249261": {
     "contest_id": 313,
     "language": "Java 8",
