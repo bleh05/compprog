@@ -118,6 +118,24 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF90271618": {
+    "contest_id": 1242,
+    "language": "Java 8",
+    "path": "codeforces\\1242\\C.java",
+    "problem_index": "C",
+    "problem_name": "Sum Balance",
+    "problem_url": "https://codeforces.com/contest/1242/problem/C",
+    "submission_id": "CF90271618",
+    "submission_url": "https://codeforces.com/contest/1242/submission/90271618",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "Aug/17/2020 21:48"
+  },
   "CF90341676": {
     "contest_id": 1036,
     "language": "Java 8",
