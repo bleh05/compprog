@@ -118,6 +118,24 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF90481173": {
+    "contest_id": 698,
+    "language": "Java 8",
+    "path": "codeforces\\698\\C.java",
+    "problem_index": "C",
+    "problem_name": "LRU",
+    "problem_url": "https://codeforces.com/contest/698/problem/C",
+    "submission_id": "CF90481173",
+    "submission_url": "https://codeforces.com/contest/698/submission/90481173",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "math",
+      "probabilities",
+      "*2400"
+    ],
+    "timestamp": "Aug/20/2020 11:28"
+  },
   "CF90543124": {
     "contest_id": 1401,
     "language": "Java 8",
