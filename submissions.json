@@ -118,6 +118,24 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF90610496": {
+    "contest_id": 1401,
+    "language": "Java 8",
+    "path": "codeforces\\1401\\E.java",
+    "problem_index": "E",
+    "problem_name": "Divide Square",
+    "problem_url": "https://codeforces.com/contest/1401/problem/E",
+    "submission_id": "CF90610496",
+    "submission_url": "https://codeforces.com/contest/1401/submission/90610496",
+    "tags": [
+      "data structures",
+      "geometry",
+      "implementation",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "Aug/21/2020 11:19"
+  },
   "CF90699353": {
     "contest_id": 260,
     "language": "Java 8",
