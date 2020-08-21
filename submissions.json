@@ -118,6 +118,23 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF90564008": {
+    "contest_id": 1401,
+    "language": "Java 8",
+    "path": "codeforces\\1401\\B.java",
+    "problem_index": "B",
+    "problem_name": "Ternary Sequence",
+    "problem_url": "https://codeforces.com/contest/1401/problem/B",
+    "submission_id": "CF90564008",
+    "submission_url": "https://codeforces.com/contest/1401/submission/90564008",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Aug/21/2020 10:05"
+  },
   "CF90579530": {
     "contest_id": 1401,
     "language": "Java 8",
