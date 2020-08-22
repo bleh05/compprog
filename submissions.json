@@ -118,6 +118,23 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF90700134": {
+    "contest_id": 845,
+    "language": "Java 8",
+    "path": "codeforces\\845\\B.java",
+    "problem_index": "B",
+    "problem_name": "Luba And The Ticket",
+    "problem_url": "https://codeforces.com/contest/845/problem/B",
+    "submission_id": "CF90700134",
+    "submission_url": "https://codeforces.com/contest/845/submission/90700134",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Aug/22/2020 10:36"
+  },
   "CF90910150": {
     "contest_id": 1400,
     "language": "Java 8",
