@@ -118,6 +118,23 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF90699353": {
+    "contest_id": 260,
+    "language": "Java 8",
+    "path": "codeforces\\260\\C.java",
+    "problem_index": "C",
+    "problem_name": "Balls and Boxes",
+    "problem_url": "https://codeforces.com/contest/260/problem/C",
+    "submission_id": "CF90699353",
+    "submission_url": "https://codeforces.com/contest/260/submission/90699353",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Aug/22/2020 10:26"
+  },
   "CF90700134": {
     "contest_id": 845,
     "language": "Java 8",
