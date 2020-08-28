@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF91225782": {
+    "contest_id": 744,
+    "language": "Java 8",
+    "path": "codeforces\\744\\A.java",
+    "problem_index": "A",
+    "problem_name": "Hongcow Builds A Nation",
+    "problem_url": "https://codeforces.com/contest/744/problem/A",
+    "submission_id": "CF91225782",
+    "submission_url": "https://codeforces.com/contest/744/submission/91225782",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Aug/28/2020 11:03"
+  },
   "CF91364336": {
     "contest_id": 1396,
     "language": "Java 8",
