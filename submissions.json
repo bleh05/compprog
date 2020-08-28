@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF91224880": {
+    "contest_id": 615,
+    "language": "Java 8",
+    "path": "codeforces\\615\\B.java",
+    "problem_index": "B",
+    "problem_name": "Longtail Hedgehog",
+    "problem_url": "https://codeforces.com/contest/615/problem/B",
+    "submission_id": "CF91224880",
+    "submission_url": "https://codeforces.com/contest/615/submission/91224880",
+    "tags": [
+      "dp",
+      "graphs",
+      "*1600"
+    ],
+    "timestamp": "Aug/28/2020 10:53"
+  },
   "CF91225782": {
     "contest_id": 744,
     "language": "Java 8",
