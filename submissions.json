@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF91607394": {
+    "contest_id": 703,
+    "language": "Java 8",
+    "path": "codeforces\\703\\B.java",
+    "problem_index": "B",
+    "problem_name": "Mishka and trip",
+    "problem_url": "https://codeforces.com/contest/703/problem/B",
+    "submission_id": "CF91607394",
+    "submission_url": "https://codeforces.com/contest/703/submission/91607394",
+    "tags": [
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Sep/01/2020 21:59"
+  },
   "CF91680172": {
     "contest_id": 1114,
     "language": "GNU C++17 (64)",
