@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF92869475": {
+    "contest_id": 213,
+    "language": "Java 8",
+    "path": "codeforces\\213\\D.java",
+    "problem_index": "D",
+    "problem_name": "Stars",
+    "problem_url": "https://codeforces.com/contest/213/problem/D",
+    "submission_id": "CF92869475",
+    "submission_url": "https://codeforces.com/contest/213/submission/92869475",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "*2300"
+    ],
+    "timestamp": "Sep/14/2020 22:46"
+  },
   "CF92871032": {
     "contest_id": 167,
     "language": "GNU C++17 (64)",
