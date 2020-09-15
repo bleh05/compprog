@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF92937777": {
+    "contest_id": 1203,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1203\\F2.cpp",
+    "problem_index": "F2",
+    "problem_name": "Complete the Projects (hard version)",
+    "problem_url": "https://codeforces.com/contest/1203/problem/F2",
+    "submission_id": "CF92937777",
+    "submission_url": "https://codeforces.com/contest/1203/submission/92937777",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "Sep/15/2020 18:25"
+  },
   "CF93074073": {
     "contest_id": 852,
     "language": "GNU C++17 (64)",
