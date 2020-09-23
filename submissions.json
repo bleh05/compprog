@@ -118,6 +118,25 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF93568290": {
+    "contest_id": 1404,
+    "language": "GNU C++17",
+    "path": "codeforces\\1404\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Fixed Point Removal",
+    "problem_url": "https://codeforces.com/contest/1404/problem/C",
+    "submission_id": "CF93568290",
+    "submission_url": "https://codeforces.com/contest/1404/submission/93568290",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "Sep/23/2020 08:57"
+  },
   "CF93654017": {
     "contest_id": 1420,
     "language": "GNU C++17",
