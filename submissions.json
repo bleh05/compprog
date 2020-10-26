@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF96814408": {
+    "contest_id": 149,
+    "language": "GNU C++17",
+    "path": "codeforces\\149\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Martian Strings",
+    "problem_url": "https://codeforces.com/contest/149/problem/E",
+    "submission_id": "CF96814408",
+    "submission_url": "https://codeforces.com/contest/149/submission/96814408",
+    "tags": [
+      "string suffix structures",
+      "strings",
+      "*2300"
+    ],
+    "timestamp": "Oct/26/2020 17:19"
+  },
   "CF96827186": {
     "contest_id": 817,
     "language": "GNU C++17",
