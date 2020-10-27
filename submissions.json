@@ -118,6 +118,23 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF96827186": {
+    "contest_id": 817,
+    "language": "GNU C++17",
+    "path": "codeforces\\817\\F.cpp",
+    "problem_index": "F",
+    "problem_name": "MEX Queries",
+    "problem_url": "https://codeforces.com/contest/817/problem/F",
+    "submission_id": "CF96827186",
+    "submission_url": "https://codeforces.com/contest/817/submission/96827186",
+    "tags": [
+      "binary search",
+      "data structures",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "Oct/27/2020 00:29"
+  },
   "CF96868344": {
     "contest_id": 1437,
     "language": "GNU C++17",
