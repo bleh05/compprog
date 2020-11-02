@@ -118,6 +118,21 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF97507167": {
+    "contest_id": 444,
+    "language": "GNU C++17",
+    "path": "codeforces\\444\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "DZY Loves FFT",
+    "problem_url": "https://codeforces.com/contest/444/problem/B",
+    "submission_id": "CF97507167",
+    "submission_url": "https://codeforces.com/contest/444/submission/97507167",
+    "tags": [
+      "probabilities",
+      "*2300"
+    ],
+    "timestamp": "Nov/02/2020 13:42"
+  },
   "CF97515753": {
     "contest_id": 877,
     "language": "GNU C++17",
