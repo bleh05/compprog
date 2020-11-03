@@ -118,6 +118,21 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF97593201": {
+    "contest_id": 723,
+    "language": "GNU C++17",
+    "path": "codeforces\\723\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Polycarp at the Radio",
+    "problem_url": "https://codeforces.com/contest/723/problem/C",
+    "submission_id": "CF97593201",
+    "submission_url": "https://codeforces.com/contest/723/submission/97593201",
+    "tags": [
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Nov/03/2020 15:23"
+  },
   "CF97593669": {
     "contest_id": 723,
     "language": "GNU C++17",
