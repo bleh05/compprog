@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF98462184": {
+    "contest_id": 1446,
+    "language": "GNU C++17",
+    "path": "codeforces\\1446\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Catching Cheaters",
+    "problem_url": "https://codeforces.com/contest/1446/problem/B",
+    "submission_id": "CF98462184",
+    "submission_url": "https://codeforces.com/contest/1446/submission/98462184",
+    "tags": [
+      "dp",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "Nov/15/2020 09:12"
+  },
   "CF98475245": {
     "contest_id": 1446,
     "language": "GNU C++17",
