@@ -118,6 +118,21 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF98661117": {
+    "contest_id": 605,
+    "language": "GNU C++17",
+    "path": "codeforces\\605\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Freelancer's Dreams",
+    "problem_url": "https://codeforces.com/contest/605/problem/C",
+    "submission_id": "CF98661117",
+    "submission_url": "https://codeforces.com/contest/605/submission/98661117",
+    "tags": [
+      "geometry",
+      "*2400"
+    ],
+    "timestamp": "Nov/17/2020 02:13"
+  },
   "CF99849369": {
     "contest_id": 1456,
     "language": "GNU C++17",
