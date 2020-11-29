@@ -117,5 +117,23 @@
       "math"
     ],
     "timestamp": "Dec/20/2020 16:30"
+  },
+  "CF99868730": {
+    "contest_id": 1456,
+    "language": "GNU C++17",
+    "path": "codeforces\\1456\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "New Game Plus!",
+    "problem_url": "https://codeforces.com/contest/1456/problem/C",
+    "submission_id": "CF99868730",
+    "submission_url": "https://codeforces.com/contest/1456/submission/99868730",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "Nov/29/2020 02:05"
   }
 }
