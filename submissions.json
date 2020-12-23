@@ -1,4 +1,20 @@
 {
+  "AC18945489": {
+    "contest_id": "agc025",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc025\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Choosing Points",
+    "problem_url": "https://atcoder.jp/contests/agc025/tasks/agc025_d",
+    "submission_id": "AC18945489",
+    "submission_url": "https://atcoder.jp/contests/agc025/submissions/18945489",
+    "tags": [
+      "AtCoder",
+      "*800"
+    ],
+    "timestamp": "Dec/22/2020 18:22"
+  },
   "AC18948187": {
     "contest_id": "agc001",
     "language": "C++ (GCC 9.2.1)",
