@@ -1,4 +1,20 @@
 {
+  "AC18949896": {
+    "contest_id": "agc001",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc001\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Mysterious Light",
+    "problem_url": "https://atcoder.jp/contests/agc001/tasks/agc001_b",
+    "submission_id": "AC18949896",
+    "submission_url": "https://atcoder.jp/contests/agc001/submissions/18949896",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Dec/23/2020 01:55"
+  },
   "AC18958299": {
     "contest_id": "agc001",
     "language": "C++ (GCC 9.2.1)",
