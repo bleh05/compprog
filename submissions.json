@@ -1,4 +1,20 @@
 {
+  "AC18958985": {
+    "contest_id": "agc001",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc001\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Arrays and Palindrome",
+    "problem_url": "https://atcoder.jp/contests/agc001/tasks/agc001_d",
+    "submission_id": "AC18958985",
+    "submission_url": "https://atcoder.jp/contests/agc001/submissions/18958985",
+    "tags": [
+      "AtCoder",
+      "*1000"
+    ],
+    "timestamp": "Dec/23/2020 16:34"
+  },
   "AC18960115": {
     "contest_id": "agc001",
     "language": "C++ (GCC 9.2.1)",
