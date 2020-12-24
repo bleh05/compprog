@@ -1,4 +1,20 @@
 {
+  "AC18963810": {
+    "contest_id": "agc002",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc002\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Knot Puzzle",
+    "problem_url": "https://atcoder.jp/contests/agc002/tasks/agc002_c",
+    "submission_id": "AC18963810",
+    "submission_url": "https://atcoder.jp/contests/agc002/submissions/18963810",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Dec/24/2020 01:38"
+  },
   "AC18972752": {
     "contest_id": "agc002",
     "language": "C++ (GCC 9.2.1)",
