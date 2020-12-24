@@ -1,4 +1,20 @@
 {
+  "AC18963764": {
+    "contest_id": "agc002",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc002\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Box and Ball",
+    "problem_url": "https://atcoder.jp/contests/agc002/tasks/agc002_b",
+    "submission_id": "AC18963764",
+    "submission_url": "https://atcoder.jp/contests/agc002/submissions/18963764",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/24/2020 01:34"
+  },
   "AC18963810": {
     "contest_id": "agc002",
     "language": "C++ (GCC 9.2.1)",
