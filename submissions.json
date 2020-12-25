@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF102308177": {
+    "contest_id": 1468,
+    "language": "GNU C++11",
+    "path": "codeforces\\1468\\J.cpp",
+    "problem_index": "J",
+    "problem_name": "Road Reform",
+    "problem_url": "https://codeforces.com/contest/1468/problem/J",
+    "submission_id": "CF102308177",
+    "submission_url": "https://codeforces.com/contest/1468/submission/102308177",
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy"
+    ],
+    "timestamp": "Dec/25/2020 06:20"
+  },
   "CF102308748": {
     "contest_id": 1468,
     "language": "GNU C++17 (64)",
