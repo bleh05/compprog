@@ -118,6 +118,21 @@
     ],
     "timestamp": "Dec/20/2020 16:30"
   },
+  "CF102314233": {
+    "contest_id": 1468,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1468\\H.cpp",
+    "problem_index": "H",
+    "problem_name": "K and Medians",
+    "problem_url": "https://codeforces.com/contest/1468/problem/H",
+    "submission_id": "CF102314233",
+    "submission_url": "https://codeforces.com/contest/1468/submission/102314233",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Dec/25/2020 07:07"
+  },
   "CF102334872": {
     "contest_id": 1468,
     "language": "GNU C++11",
