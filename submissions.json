@@ -1,4 +1,20 @@
 {
+  "AC19009314": {
+    "contest_id": "agc003",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc003\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Wanna go back home",
+    "problem_url": "https://atcoder.jp/contests/agc003/tasks/agc003_a",
+    "submission_id": "AC19009314",
+    "submission_url": "https://atcoder.jp/contests/agc003/submissions/19009314",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/27/2020 00:52"
+  },
   "AC19009400": {
     "contest_id": "agc003",
     "language": "C++ (GCC 9.2.1)",
