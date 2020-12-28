@@ -1,4 +1,20 @@
 {
+  "AC19036581": {
+    "contest_id": "agc004",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc004\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Divide a Cuboid",
+    "problem_url": "https://atcoder.jp/contests/agc004/tasks/agc004_a",
+    "submission_id": "AC19036581",
+    "submission_url": "https://atcoder.jp/contests/agc004/submissions/19036581",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/28/2020 13:51"
+  },
   "AC19104394": {
     "contest_id": "agc004",
     "language": "C++ (GCC 9.2.1)",
