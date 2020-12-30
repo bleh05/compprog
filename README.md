@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+170 | [F - Euclid's nightmare](https://codeforces.com/contest/1466/problem/F) | [GNU C++17](./codeforces/1466/F.cpp) | `dsu` `graphs` `math` | Dec/30/2020 11:31 | 
 169 | [M - Similar Sets](https://codeforces.com/contest/1468/problem/M) | [GNU C++17](./codeforces/1468/M.cpp) | `data structures` `graphs` `implementation` | Dec/27/2020 11:50 | 
 168 | [A - LaIS](https://codeforces.com/contest/1468/problem/A) | [GNU C++11](./codeforces/1468/A.cpp) | `data structures` `dp` `greedy` `greedy` | Dec/25/2020 09:59 | 
 167 | [H - K and Medians](https://codeforces.com/contest/1468/problem/H) | [GNU C++17 (64)](./codeforces/1468/H.cpp) | `constructive algorithms` `math` | Dec/25/2020 07:07 | 
