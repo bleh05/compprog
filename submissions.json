@@ -1,4 +1,20 @@
 {
+  "AC19104394": {
+    "contest_id": "agc004",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc004\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Teleporter",
+    "problem_url": "https://atcoder.jp/contests/agc004/tasks/agc004_d",
+    "submission_id": "AC19104394",
+    "submission_url": "https://atcoder.jp/contests/agc004/submissions/19104394",
+    "tags": [
+      "AtCoder",
+      "*800"
+    ],
+    "timestamp": "Jan/01/2021 11:53"
+  },
   "AC19197229": {
     "contest_id": "agc004",
     "language": "C++ (GCC 9.2.1)",
