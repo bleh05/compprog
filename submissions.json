@@ -1,4 +1,20 @@
 {
+  "AC19197229": {
+    "contest_id": "agc004",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc004\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Salvage Robots",
+    "problem_url": "https://atcoder.jp/contests/agc004/tasks/agc004_e",
+    "submission_id": "AC19197229",
+    "submission_url": "https://atcoder.jp/contests/agc004/submissions/19197229",
+    "tags": [
+      "AtCoder",
+      "*1400"
+    ],
+    "timestamp": "Jan/03/2021 23:27"
+  },
   "AC19209684": {
     "contest_id": "agc005",
     "language": "C++ (GCC 9.2.1)",
