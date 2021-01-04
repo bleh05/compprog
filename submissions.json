@@ -1,4 +1,20 @@
 {
+  "AC19209684": {
+    "contest_id": "agc005",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc005\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "STring",
+    "problem_url": "https://atcoder.jp/contests/agc005/tasks/agc005_a",
+    "submission_id": "AC19209684",
+    "submission_url": "https://atcoder.jp/contests/agc005/submissions/19209684",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/04/2021 16:31"
+  },
   "AC19209718": {
     "contest_id": "agc005",
     "language": "C++ (GCC 9.2.1)",
