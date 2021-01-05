@@ -511,6 +511,21 @@
     ],
     "timestamp": "Jan/04/2021 14:12"
   },
+  "CF103412360": {
+    "contest_id": 1470,
+    "language": "GNU C++17",
+    "path": "codeforces\\1470\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Strange Birthday Party",
+    "problem_url": "https://codeforces.com/contest/1470/problem/A",
+    "submission_id": "CF103412360",
+    "submission_url": "https://codeforces.com/contest/1470/submission/103412360",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Jan/05/2021 09:02"
+  },
   "CF88153787": {
     "contest_id": 431,
     "language": "Java 8",
