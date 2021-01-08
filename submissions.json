@@ -526,6 +526,24 @@
     ],
     "timestamp": "Jan/05/2021 09:02"
   },
+  "CF103800478": {
+    "contest_id": 1467,
+    "language": "GNU C++17",
+    "path": "codeforces\\1467\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Sum of Paths",
+    "problem_url": "https://codeforces.com/contest/1467/problem/D",
+    "submission_id": "CF103800478",
+    "submission_url": "https://codeforces.com/contest/1467/submission/103800478",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Jan/08/2021 10:19"
+  },
   "CF103915044": {
     "contest_id": 1142,
     "language": "GNU C++17",
