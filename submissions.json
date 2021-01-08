@@ -1,4 +1,20 @@
 {
+  "AC19258079": {
+    "contest_id": "abc185",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc185\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Smartphone Addiction",
+    "problem_url": "https://atcoder.jp/contests/abc185/tasks/abc185_b",
+    "submission_id": "AC19258079",
+    "submission_url": "https://atcoder.jp/contests/abc185/submissions/19258079",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/07/2021 20:16"
+  },
   "AC19258124": {
     "contest_id": "abc185",
     "language": "C++ (GCC 9.2.1)",
