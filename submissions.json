@@ -526,6 +526,22 @@
     ],
     "timestamp": "Jan/05/2021 09:02"
   },
+  "CF103915044": {
+    "contest_id": 1142,
+    "language": "GNU C++17",
+    "path": "codeforces\\1142\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "The Beatles",
+    "problem_url": "https://codeforces.com/contest/1142/problem/A",
+    "submission_id": "CF103915044",
+    "submission_url": "https://codeforces.com/contest/1142/submission/103915044",
+    "tags": [
+      "brute force",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jan/09/2021 14:11"
+  },
   "CF103917255": {
     "contest_id": 1142,
     "language": "GNU C++17",
