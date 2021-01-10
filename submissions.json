@@ -526,6 +526,21 @@
     ],
     "timestamp": "Jan/05/2021 09:02"
   },
+  "CF103922278": {
+    "contest_id": 1142,
+    "language": "GNU C++17",
+    "path": "codeforces\\1142\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "U2",
+    "problem_url": "https://codeforces.com/contest/1142/problem/C",
+    "submission_id": "CF103922278",
+    "submission_url": "https://codeforces.com/contest/1142/submission/103922278",
+    "tags": [
+      "geometry",
+      "*2400"
+    ],
+    "timestamp": "Jan/09/2021 18:07"
+  },
   "CF88153787": {
     "contest_id": 431,
     "language": "Java 8",
