@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+632 | [A - Short Program](https://codeforces.com/contest/878/problem/A) | [GNU C++17](./codeforces/878/A.cpp) | `bitmasks` `constructive algorithms` `*1600` | Jan/13/2021 13:27 | 
 631 | [C - U2](https://codeforces.com/contest/1142/problem/C) | [GNU C++17](./codeforces/1142/C.cpp) | `geometry` `*2400` | Jan/09/2021 18:07 | 
 630 | [B - Lynyrd Skynyrd](https://codeforces.com/contest/1142/problem/B) | [GNU C++17](./codeforces/1142/B.cpp) | `data structures` `dfs and similar` `dp` `math` `trees` `*2000` | Jan/09/2021 15:00 | 
 629 | [A - The Beatles](https://codeforces.com/contest/1142/problem/A) | [GNU C++17](./codeforces/1142/A.cpp) | `brute force` `math` `*1700` | Jan/09/2021 14:11 | 
