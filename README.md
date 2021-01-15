@@ -13,20 +13,21 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-646 | [E - Okabe and El Psy Kongroo](https://codeforces.com/contest/821/problem/E) | [Java 8](./codeforces/821/E.java) | `dp` `matrices` `*2100` | Jan/26/2021 15:32 | 
-645 | [C - Okabe and Boxes](https://codeforces.com/contest/821/problem/C) | [GNU C++17](./codeforces/821/C.cpp) | `data structures` `greedy` `trees` `*1500` | Jan/20/2021 13:37 | 
-644 | [B - Okabe and Banana Trees](https://codeforces.com/contest/821/problem/B) | [GNU C++17](./codeforces/821/B.cpp) | `brute force` `math` `*1300` | Jan/20/2021 13:20 | 
-643 | [A - Okabe and Future Gadget Laboratory](https://codeforces.com/contest/821/problem/A) | [GNU C++17](./codeforces/821/A.cpp) | `implementation` `*800` | Jan/20/2021 13:08 | 
-642 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [GNU C++17](./codeforces/1474/B.cpp) | `binary search` `constructive algorithms` `greedy` `math` `number theory` `*1000` | Jan/19/2021 08:58 | 
-641 | [A - Puzzle From the Future](https://codeforces.com/contest/1474/problem/A) | [GNU C++17](./codeforces/1474/A.cpp) | `greedy` `*800` | Jan/19/2021 08:43 | 
-640 | [D - Number of Multisets](https://atcoder.jp/contests/arc107/tasks/arc107_d) | [C++ (GCC 9.2.1)](./atcoder/arc107/D.cpp) | `AtCoder` `*600` | Jan/18/2021 14:31 | 
-639 | [C - Shuffle Permutation](https://atcoder.jp/contests/arc107/tasks/arc107_c) | [C++ (GCC 9.2.1)](./atcoder/arc107/C.cpp) | `AtCoder` `*500` | Jan/18/2021 13:30 | 
-638 | [B - Quadruple](https://atcoder.jp/contests/arc107/tasks/arc107_b) | [C++ (GCC 9.2.1)](./atcoder/arc107/B.cpp) | `AtCoder` `*400` | Jan/18/2021 13:09 | 
-637 | [A - Simple Math](https://atcoder.jp/contests/arc107/tasks/arc107_a) | [C++ (GCC 9.2.1)](./atcoder/arc107/A.cpp) | `AtCoder` `*300` | Jan/18/2021 13:02 | 
-636 | [B - Mex Boxes](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/B.cpp) | `AtCoder` `*400` | Jan/16/2021 13:04 | 
-635 | [A - Two Sequences 2](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/A.cpp) | `AtCoder` `*300` | Jan/16/2021 12:58 | 
-634 | [B - Reversible Cards](https://atcoder.jp/contests/arc111/tasks/arc111_b) | [C++ (GCC 9.2.1)](./atcoder/arc111/B.cpp) | `AtCoder` `*400` | Jan/15/2021 18:58 | 
-633 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Jan/15/2021 17:13 | 
+647 | [E - Okabe and El Psy Kongroo](https://codeforces.com/contest/821/problem/E) | [Java 8](./codeforces/821/E.java) | `dp` `matrices` `*2100` | Jan/26/2021 15:32 | 
+646 | [C - Okabe and Boxes](https://codeforces.com/contest/821/problem/C) | [GNU C++17](./codeforces/821/C.cpp) | `data structures` `greedy` `trees` `*1500` | Jan/20/2021 13:37 | 
+645 | [B - Okabe and Banana Trees](https://codeforces.com/contest/821/problem/B) | [GNU C++17](./codeforces/821/B.cpp) | `brute force` `math` `*1300` | Jan/20/2021 13:20 | 
+644 | [A - Okabe and Future Gadget Laboratory](https://codeforces.com/contest/821/problem/A) | [GNU C++17](./codeforces/821/A.cpp) | `implementation` `*800` | Jan/20/2021 13:08 | 
+643 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [GNU C++17](./codeforces/1474/B.cpp) | `binary search` `constructive algorithms` `greedy` `math` `number theory` `*1000` | Jan/19/2021 08:58 | 
+642 | [A - Puzzle From the Future](https://codeforces.com/contest/1474/problem/A) | [GNU C++17](./codeforces/1474/A.cpp) | `greedy` `*800` | Jan/19/2021 08:43 | 
+641 | [D - Number of Multisets](https://atcoder.jp/contests/arc107/tasks/arc107_d) | [C++ (GCC 9.2.1)](./atcoder/arc107/D.cpp) | `AtCoder` `*600` | Jan/18/2021 14:31 | 
+640 | [C - Shuffle Permutation](https://atcoder.jp/contests/arc107/tasks/arc107_c) | [C++ (GCC 9.2.1)](./atcoder/arc107/C.cpp) | `AtCoder` `*500` | Jan/18/2021 13:30 | 
+639 | [B - Quadruple](https://atcoder.jp/contests/arc107/tasks/arc107_b) | [C++ (GCC 9.2.1)](./atcoder/arc107/B.cpp) | `AtCoder` `*400` | Jan/18/2021 13:09 | 
+638 | [A - Simple Math](https://atcoder.jp/contests/arc107/tasks/arc107_a) | [C++ (GCC 9.2.1)](./atcoder/arc107/A.cpp) | `AtCoder` `*300` | Jan/18/2021 13:02 | 
+637 | [B - Mex Boxes](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/B.cpp) | `AtCoder` `*400` | Jan/16/2021 13:04 | 
+636 | [A - Two Sequences 2](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/A.cpp) | `AtCoder` `*300` | Jan/16/2021 12:58 | 
+635 | [B - Reversible Cards](https://atcoder.jp/contests/arc111/tasks/arc111_b) | [C++ (GCC 9.2.1)](./atcoder/arc111/B.cpp) | `AtCoder` `*400` | Jan/15/2021 18:58 | 
+634 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Jan/15/2021 17:13 | 
+633 | [B - Neko Performs Cat Furrier Transform](https://codeforces.com/contest/1152/problem/B) | [GNU C++17](./codeforces/1152/B.cpp) | `bitmasks` `constructive algorithms` `dfs and similar` `math` `*1300` | Jan/15/2021 14:18 | 
 632 | [A - Short Program](https://codeforces.com/contest/878/problem/A) | [GNU C++17](./codeforces/878/A.cpp) | `bitmasks` `constructive algorithms` `*1600` | Jan/13/2021 13:27 | 
 631 | [C - U2](https://codeforces.com/contest/1142/problem/C) | [GNU C++17](./codeforces/1142/C.cpp) | `geometry` `*2400` | Jan/09/2021 18:07 | 
 630 | [B - Lynyrd Skynyrd](https://codeforces.com/contest/1142/problem/B) | [GNU C++17](./codeforces/1142/B.cpp) | `data structures` `dfs and similar` `dp` `math` `trees` `*2000` | Jan/09/2021 15:00 | 
