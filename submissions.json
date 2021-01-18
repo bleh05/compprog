@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC19515776": {
+    "contest_id": "arc107",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc107\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Number of Multisets",
+    "problem_url": "https://atcoder.jp/contests/arc107/tasks/arc107_d",
+    "submission_id": "AC19515776",
+    "submission_url": "https://atcoder.jp/contests/arc107/submissions/19515776",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Jan/18/2021 14:31"
+  },
   "AC6747391": {
     "contest_id": "dp",
     "language": "Java8 (OpenJDK 1.8.0)",
