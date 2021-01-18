@@ -943,6 +943,22 @@
     ],
     "timestamp": "Jan/07/2021 20:59"
   },
+  "AC19515556": {
+    "contest_id": "arc107",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc107\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Shuffle Permutation",
+    "problem_url": "https://atcoder.jp/contests/arc107/tasks/arc107_c",
+    "submission_id": "AC19515556",
+    "submission_url": "https://atcoder.jp/contests/arc107/submissions/19515556",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/18/2021 13:30"
+  },
   "AC19515776": {
     "contest_id": "arc107",
     "language": "C++ (GCC 9.2.1)",
