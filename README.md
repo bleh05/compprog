@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-643 | [E - Okabe and El Psy Kongroo](https://codeforces.com/contest/821/problem/E) | [Java 8](./codeforces/821/E.java) | `dp` `matrices` `*2100` | Jan/26/2021 15:32 | 
-642 | [C - Okabe and Boxes](https://codeforces.com/contest/821/problem/C) | [GNU C++17](./codeforces/821/C.cpp) | `data structures` `greedy` `trees` `*1500` | Jan/20/2021 13:37 | 
-641 | [B - Okabe and Banana Trees](https://codeforces.com/contest/821/problem/B) | [GNU C++17](./codeforces/821/B.cpp) | `brute force` `math` `*1300` | Jan/20/2021 13:20 | 
+644 | [E - Okabe and El Psy Kongroo](https://codeforces.com/contest/821/problem/E) | [Java 8](./codeforces/821/E.java) | `dp` `matrices` `*2100` | Jan/26/2021 15:32 | 
+643 | [C - Okabe and Boxes](https://codeforces.com/contest/821/problem/C) | [GNU C++17](./codeforces/821/C.cpp) | `data structures` `greedy` `trees` `*1500` | Jan/20/2021 13:37 | 
+642 | [B - Okabe and Banana Trees](https://codeforces.com/contest/821/problem/B) | [GNU C++17](./codeforces/821/B.cpp) | `brute force` `math` `*1300` | Jan/20/2021 13:20 | 
+641 | [A - Okabe and Future Gadget Laboratory](https://codeforces.com/contest/821/problem/A) | [GNU C++17](./codeforces/821/A.cpp) | `implementation` `*800` | Jan/20/2021 13:08 | 
 640 | [D - Number of Multisets](https://atcoder.jp/contests/arc107/tasks/arc107_d) | [C++ (GCC 9.2.1)](./atcoder/arc107/D.cpp) | `AtCoder` `*600` | Jan/18/2021 14:31 | 
 639 | [C - Shuffle Permutation](https://atcoder.jp/contests/arc107/tasks/arc107_c) | [C++ (GCC 9.2.1)](./atcoder/arc107/C.cpp) | `AtCoder` `*500` | Jan/18/2021 13:30 | 
 638 | [B - Quadruple](https://atcoder.jp/contests/arc107/tasks/arc107_b) | [C++ (GCC 9.2.1)](./atcoder/arc107/B.cpp) | `AtCoder` `*400` | Jan/18/2021 13:09 | 
