@@ -2286,6 +2286,25 @@
     ],
     "timestamp": "Jan/26/2021 15:32"
   },
+  "CF112704035": {
+    "contest_id": 1513,
+    "language": "GNU C++17",
+    "path": "codeforces\\1513\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "AND Sequences",
+    "problem_url": "https://codeforces.com/contest/1513/problem/B",
+    "submission_id": "CF112704035",
+    "submission_url": "https://codeforces.com/contest/1513/submission/112704035",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Apr/11/2021 11:18"
+  },
   "CF112786896": {
     "contest_id": 1511,
     "language": "GNU C++17",
