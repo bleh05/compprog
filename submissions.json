@@ -2286,6 +2286,24 @@
     ],
     "timestamp": "Jan/26/2021 15:32"
   },
+  "CF112798030": {
+    "contest_id": 1511,
+    "language": "GNU C++17",
+    "path": "codeforces\\1511\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "GCD Length",
+    "problem_url": "https://codeforces.com/contest/1511/problem/B",
+    "submission_id": "CF112798030",
+    "submission_url": "https://codeforces.com/contest/1511/submission/112798030",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Apr/12/2021 09:46"
+  },
   "CF112802285": {
     "contest_id": 1511,
     "language": "GNU C++17",
