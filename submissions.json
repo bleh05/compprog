@@ -2286,6 +2286,25 @@
     ],
     "timestamp": "Jan/26/2021 15:32"
   },
+  "CF122498025": {
+    "contest_id": 1550,
+    "language": "GNU C++17",
+    "path": "codeforces\\1550\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Excellent Arrays",
+    "problem_url": "https://codeforces.com/contest/1550/problem/D",
+    "submission_id": "CF122498025",
+    "submission_url": "https://codeforces.com/contest/1550/submission/122498025",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Jul/14/2021 11:01"
+  },
   "CF122525190": {
     "contest_id": 1550,
     "language": "GNU C++17",
